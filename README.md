@@ -3,7 +3,7 @@
 
 - [non_existent_users.csv](non_existent_users.csv): Packages that point to a GitHub repository whose owner doesn't exist anymore.
 - [suspicious_updates.csv](suspicious_updates.csv): Packages that have been updated on the package repository without a corresponding update to the code repository's default branch.
-- [broken_urls.csv](broken_urls.txt): Packages that have a broken URL anywhere in their description, homepage, docs URL, bugtrack URL, etc
+- [broken_urls.csv](broken_urls.csv): Packages that have a broken URL anywhere in their description, homepage, docs URL, bugtrack URL, etc
 
 [<img src="./banner.png" />](https://trickest-access.paperform.co/)
 
