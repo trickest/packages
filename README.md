@@ -1,9 +1,10 @@
 <h1 align="center">Packages <a href="https://twitter.com/intent/tweet?text=Trickest%20Packages%20-%20Automated%20compromise%20detection%20of%20the%20world's%20most%20popular%20packages%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftrickest%2Fpackages&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Automated compromise detection of the world's most popular packages</h3>
 
-- [non_existent_users.csv](non_existent_users.csv): Packages that point to a GitHub repository whose owner doesn't exist anymore.
-- [suspicious_updates.csv](suspicious_updates.csv): Packages that have been updated on the package repository without a corresponding update to the code repository's default branch.
-- [broken_urls.csv](broken_urls.csv): Packages that have a broken URL anywhere in their description, homepage, docs URL, bugtrack URL, etc
+For each package registry, 3 files are generated:
+- `non_existent_users.csv`: Packages that point to a GitHub repository whose owner doesn't exist anymore: [PyPI](pypi/non_existent_users.csv), [npm](npm/non_existent_users.csv)
+- `suspicious_updates.csv`: Packages that have been updated on the package repository without a corresponding update to the code repository's default branch: [PyPI](pypi/suspicious_updates.csv), [npm](npm/suspicious_updates.csv)
+- `broken_urls.csv`: Packages that have a broken URL anywhere in their description, homepage, docs URL, bugtrack URL, etc: [PyPI](pypi/broken_urls.csv), [npm](npm/broken_urls.csv)
 
 [<img src="./banner.png" />](https://trickest-access.paperform.co/)
 
