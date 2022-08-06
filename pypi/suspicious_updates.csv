@@ -1,6 +1,5 @@
 package,package_update,repository_update
 asyncmock,2020-03-15,2020-02-20
-autogluon-core,2022-08-05,2022-08-04
 aws-embedded-metrics,2022-08-01,2022-07-29
 aws-encryption-sdk,2022-06-21,2022-06-20
 aws-secretsmanager-caching,2021-03-11,2021-03-10
@@ -36,10 +35,11 @@ jikanpy,2021-04-18,2021-04-16
 jupyter-contrib-core,2022-07-09,2022-07-08
 jupyter-nbextensions-configurator,2022-07-17,2022-07-09
 locales,2019-02-04,2019-02-02
+localstack-ext,2022-08-06,2022-08-05
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
 msgpack-numpy,2022-06-09,2022-04-28
-multi-model-server,2022-08-05,2022-04-29
+multi-model-server,2022-08-06,2022-04-29
 pantab,2022-04-14,2021-04-07
 pep562,2021-05-21,2021-05-17
 pip-compile-multi,2022-07-16,2022-07-15
@@ -69,6 +69,7 @@ suds,2022-06-28,2022-06-26
 suds-community,2022-06-28,2022-06-26
 sweetviz,2022-06-14,2022-06-08
 textfsm,2022-07-13,2022-07-06
+tf-models-nightly,2022-08-06,2022-08-05
 tzdata,2022-03-18,2022-03-17
 unidic-lite,2021-01-25,2020-09-01
 virtualenv-clone,2021-09-07,2021-09-06
