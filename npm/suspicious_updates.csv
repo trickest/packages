@@ -53,7 +53,7 @@ package,package_update,repository_update
 @oclif/command,2022-06-12,2022-05-23
 @oclif/config,2022-06-12,2022-04-02
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-08-05,2022-07-15
+@omnia/fx,2022-08-09,2022-07-15
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
 @phosphor/widgets,2022-06-12,2019-11-05
@@ -181,7 +181,6 @@ better-assert,2022-06-13,2017-04-03
 better-babel-cli,2022-06-13,2018-07-05
 big-bertha,2022-06-13,2016-10-18
 big-integer,2022-06-30,2022-03-08
-bignumber.js,2022-06-13,2022-05-29
 bimn,2022-04-11,2020-10-27
 bindings,2022-06-13,2019-02-27
 bip39,2022-06-13,2022-04-27
@@ -351,7 +350,7 @@ detect-port,2022-06-15,2022-03-19
 detect-port-alt,2022-06-15,2022-03-19
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
-discord.js,2022-08-07,2022-08-01
+discord.js,2022-08-09,2022-08-08
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -419,10 +418,8 @@ eslint-friendly-formatter,2022-06-17,2021-11-14
 eslint-loader,2022-06-17,2020-09-27
 eslint-plugin-babel,2022-06-17,2020-07-31
 eslint-plugin-flowtype,2022-06-17,2021-11-01
-eslint-plugin-jsx-a11y,2022-07-21,2022-07-09
 eslint-plugin-node,2022-06-17,2021-06-03
 eslint-plugin-promise,2022-06-17,2021-12-18
-eslint-plugin-react,2022-06-23,2022-04-02
 eslint-plugin-standard,2022-06-17,2020-11-23
 esm,2022-06-17,2019-09-26
 esprima,2022-06-17,2021-08-29
@@ -461,7 +458,6 @@ ffi,2022-06-18,2019-01-25
 fibers,2022-07-28,2022-01-24
 fie-toolkit-wangpumod,2022-06-18,2018-05-30
 figlet,2022-06-30,2021-10-03
-figures,2022-06-22,2022-05-10
 file-loader,2022-06-18,2021-03-05
 file-uri-to-path,2022-06-18,2019-10-11
 fill-range,2022-06-18,2019-06-17
@@ -515,7 +511,6 @@ globby,2022-06-18,2022-06-12
 gm,2022-06-18,2017-12-28
 gp-boilerplate-environment,2022-06-18,2018-07-15
 graceful-fs,2022-06-18,2022-04-04
-graphql,2022-08-02,2022-08-01
 gray-matter,2022-06-18,2021-04-24
 gript,2022-06-18,2017-10-31
 grumbler-scripts,2022-06-18,2022-04-11
@@ -678,7 +673,6 @@ json-loader,2022-06-19,2018-08-20
 json-schema-traverse,2022-06-19,2021-01-05
 json-stable-stringify,2022-06-19,2016-02-02
 json-stringify-safe,2022-06-19,2015-05-20
-json5,2022-06-19,2022-06-18
 jsonfile,2022-06-19,2021-09-23
 jsonify,2022-06-19,2013-04-04
 jsonparse,2022-06-19,2020-04-27
@@ -730,7 +724,7 @@ load-json-file,2022-06-19,2022-02-18
 loader-utils,2022-06-19,2022-04-11
 localforage,2022-06-19,2021-10-03
 locate-path,2022-06-19,2022-06-06
-lodash,2022-08-06,2021-04-23
+lodash,2022-08-08,2021-04-23
 lodash-es,2022-06-19,2021-04-23
 lodash-webpack-plugin,2022-06-19,2020-12-21
 lodash._reinterpolate,2022-06-19,2021-04-23
@@ -806,7 +800,6 @@ morgan,2022-06-20,2020-04-13
 mout,2022-06-20,2021-09-01
 mqtt,2022-06-30,2022-06-20
 ms,2022-08-02,2022-06-26
-mssql,2022-06-20,2022-05-27
 mulp,2022-05-10,2018-07-13
 multer,2022-07-24,2021-12-07
 multimatch,2022-06-20,2021-10-18
@@ -1307,7 +1300,6 @@ vue-html-loader,2022-06-28,2018-01-06
 vue-slate-tools,2022-05-23,2019-05-10
 vue-starter-service,2022-05-23,2019-03-01
 vue-style-loader,2022-06-28,2021-03-03
-vue-template-compiler,2022-07-26,2022-07-22
 vue2do,2022-06-28,2021-04-25
 vuex,2022-06-28,2022-05-28
 warning,2022-06-28,2022-02-14
@@ -1349,7 +1341,7 @@ wrench,2022-06-29,2016-03-30
 write-file-webpack-plugin,2022-06-29,2021-07-06
 ws,2022-07-28,2022-07-15
 xapiwrapper,2022-05-24,2020-07-23
-xcode,2022-08-07,2022-07-19
+xcode,2022-08-09,2022-07-19
 xes-webpack-core,2022-05-24,2021-03-27
 xhr,2022-06-29,2020-11-28
 xml-js,2022-06-29,2019-02-13
