@@ -1,4 +1,4 @@
-<h1 align="center">Packages <a href="https://twitter.com/intent/tweet?text=Trickest%20Packages%20-%20Automated%20compromise%20detection%20of%20the%20world's%20most%20popular%20packages%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftrickest%2Fpackages&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
+<h1 align="center">Packages <a href="https://twitter.com/intent/tweet?text=Trickest%20Packages%20-%20Automated%20compromise%20detection%20of%20the%20world's%20most%20popular%20packages%20%40trick3st%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftrickest%2Fpackages&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Automated compromise detection of the world's most popular packages</h3>
 
 For each package registry, 3 files are generated:
