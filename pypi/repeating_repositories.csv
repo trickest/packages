@@ -1,1 +1,2 @@
 repository,packages
+https://github.com/zeromq/pyzmq,pyzmq|zmq

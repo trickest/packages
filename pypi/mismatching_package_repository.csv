@@ -1,2 +1,2 @@
 package,repository
-python-dateutil,https://github.com/dateutil/dateutil
+zope-interface,https://github.com/zopefoundation/zope.interface
