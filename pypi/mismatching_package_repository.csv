@@ -1,2 +1,2 @@
 package,repository
-tabulate,https://github.com/astanin/python-tabulate
+python-dateutil,https://github.com/dateutil/dateutil
