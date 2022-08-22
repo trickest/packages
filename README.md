@@ -1,10 +1,12 @@
 <h1 align="center">Packages <a href="https://twitter.com/intent/tweet?text=Trickest%20Packages%20-%20Automated%20compromise%20detection%20of%20the%20world's%20most%20popular%20packages%20%40trick3st%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftrickest%2Fpackages&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Automated compromise detection of the world's most popular packages</h3>
 
-For each package registry, 3 files are generated:
+For each package registry, 5 files are generated:
 - `non_existent_users.csv`: Packages that point to a GitHub repository whose owner doesn't exist anymore: [PyPI](pypi/non_existent_users.csv), [npm](npm/non_existent_users.csv)
 - `suspicious_updates.csv`: Packages that have been updated on the package repository without a corresponding update to the code repository's default branch: [PyPI](pypi/suspicious_updates.csv), [npm](npm/suspicious_updates.csv)
 - `broken_urls.csv`: Packages that have a broken URL anywhere in their description, homepage, docs URL, bugtrack URL, etc: [PyPI](pypi/broken_urls.csv), [npm](npm/broken_urls.csv)
+- `mismatching_package_repository.csv`: Packages that point to a GitHub repository whose name doesn't match the package name (This isn't always indicative of a compromised package but it helps catch malicious packages that try to impersonate legitimate ones): [PyPI](pypi/mismatching_package_repository.csv), [npm](npm/mismatching_package_repository.csv)
+- `repeating_repositories.csv`: Packages that point to a GitHub repository that another package also points to (This isn't always indicative of a compromised package but it helps catch malicious packages that try to impersonate legitimate ones): [PyPI](pypi/repeating_repositories.csv), [npm](npm/repeating_repositories.csv)
 
 [<img src="./banner.png" />](https://trickest-access.paperform.co/)
 
@@ -29,11 +31,14 @@ Then, it performs multiple checks to find any red flags that could indicate that
     - The GitHub repository connected to the package
     - The repository's latest commit date
     - The URLs that the package points to anywhere
-- This node branches off into 3 checks:
+- This node branches off into 5 checks:
     - The package's latest release date and repository's latest commit date are compared. If a package version has been released _after_ the latest commit date, the package is flagged.
         - Example: The `ctx` package (now deleted) had its [last commit in 2014](https://github.com/figlief/ctx/commits/master) but a [new version was released in 2022](https://web.archive.org/web/20220519184823/https://pypi.org/project/ctx/#history) which [turned out to be malicious](https://www.reddit.com/r/Python/comments/uwhzkj/i_think_the_ctx_package_on_pypi_has_been_hacked/).
     - GitHub usernames are extracted from the repository URLs and passed to [ffuf](https://github.com/ffuf/ffuf) which queries the GitHub API to check if any usernames don't exist anymore (Thanks [@joohoi](https://github.com/joohoi)!)
     - The package's URLs are passed to [hakcheckurl](https://github.com/hakluke/hakcheckurl) to check if any URLs are broken and could be taken over. (Thanks [@hakluke](https://github.com/hakluke))
+    - The package's GitHub repository is checked and the package is flagged if:
+        - the repository name doesn't match the package name
+        - the repository has been used in another package before
 - In the end, the results of these checks are matched back to their packages and pushed to this repository.
 - The workflow is scheduled to run constantly.
 
