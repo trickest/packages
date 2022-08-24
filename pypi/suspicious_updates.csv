@@ -5,8 +5,7 @@ bbcode,2019-12-31,2019-12-27
 bumpversion,2020-05-14,2019-11-26
 business-duration,2022-01-19,2020-04-02
 cgroupspy,2022-04-04,2022-04-01
-clearml,2022-08-22,2022-08-20
-clearml-agent,2022-08-20,2022-08-01
+clearml-agent,2022-08-24,2022-08-23
 contextily,2021-10-16,2020-05-14
 contours,2017-07-28,2017-07-27
 cpuset-py3,2020-12-01,2016-01-21
@@ -17,6 +16,7 @@ dbnd,2022-08-23,2022-08-22
 dbnd-airflow,2022-08-23,2022-08-22
 dbnd-qubole,2022-08-23,2022-08-22
 dbnd-spark,2022-08-23,2022-08-22
+dbt-databricks,2022-08-23,2022-08-18
 dedupe,2022-01-21,2022-01-19
 drf-jwt,2022-01-09,2022-01-08
 eth-abi,2022-07-18,2022-07-15
@@ -37,12 +37,12 @@ ipcqueue,2022-01-27,2021-09-11
 jikanpy,2021-04-18,2021-04-16
 jupyter-contrib-core,2022-07-09,2022-07-08
 jupyter-nbextensions-configurator,2022-07-17,2022-07-09
-localstack-ext,2022-08-23,2022-08-22
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
 msgpack-numpy,2022-06-09,2022-04-28
-multi-model-server,2022-08-23,2022-04-29
+multi-model-server,2022-08-24,2022-04-29
 mypy-boto3-ec2,2022-08-22,2022-08-19
+mypy-boto3-rds,2022-08-23,2022-08-19
 newrelic-telemetry-sdk,2022-07-11,2022-07-09
 pantab,2022-04-14,2021-04-07
 pep562,2021-05-21,2021-05-17
@@ -57,12 +57,14 @@ pyminizip,2021-12-21,2021-12-20
 pymp-pypi,2022-02-28,2022-02-24
 pyppmd,2022-07-30,2022-07-29
 python-jsonrpc-server,2020-09-08,2020-09-07
+python-logstash,2022-03-30,2022-03-28
 python-monkey-business,2016-03-22,2016-03-19
 pyvis,2022-05-09,2022-04-15
 quantile-python,2015-02-11,2013-09-21
 rauth,2017-01-22,2015-11-05
 requests-ntlm,2017-10-18,2017-09-19
 resampy,2022-08-08,2022-08-05
+snowflake-sqlalchemy,2022-08-23,2022-08-18
 spacy-alignments,2022-04-06,2022-04-05
 spacy-pkuseg,2022-07-05,2022-07-04
 sparkdl,2018-05-16,2017-09-15
@@ -73,7 +75,6 @@ strenum,2022-06-22,2021-10-14
 sweetviz,2022-06-14,2022-06-08
 tabula-py,2022-08-23,2022-08-18
 textfsm,2022-07-13,2022-07-06
-tf-models-nightly,2022-08-23,2022-08-22
 uamqp,2022-08-18,2022-08-17
 unidic-lite,2021-01-25,2020-09-01
 virtualenv-clone,2021-09-07,2021-09-06
