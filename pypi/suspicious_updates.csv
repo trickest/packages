@@ -14,6 +14,7 @@ cvxopt,2022-03-08,2022-03-07
 dbt-bigquery,2022-08-30,2022-08-29
 dedupe,2022-01-21,2022-01-19
 delta-spark,2022-08-31,2022-08-24
+django-configurations,2022-09-01,2022-08-25
 drf-jwt,2022-01-09,2022-01-08
 eth-abi,2022-07-18,2022-07-15
 flower,2022-08-07,2022-07-15
@@ -32,9 +33,11 @@ jupyter-contrib-core,2022-07-09,2022-07-08
 jupyter-nbextensions-configurator,2022-07-17,2022-07-09
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
+mmdet,2022-09-01,2022-08-31
 msgpack-numpy,2022-06-09,2022-04-28
-multi-model-server,2022-08-31,2022-04-29
+multi-model-server,2022-09-01,2022-04-29
 mypy-boto3-rds,2022-08-26,2022-08-25
+mypy-boto3-sagemaker,2022-08-31,2022-08-25
 newrelic-telemetry-sdk,2022-07-11,2022-07-09
 pantab,2022-04-14,2021-04-07
 parsl,2022-08-30,2022-08-29
@@ -71,8 +74,5 @@ stripe,2022-08-26,2022-08-25
 sweetviz,2022-06-14,2022-06-08
 tabula-py,2022-08-23,2022-08-18
 textfsm,2022-07-13,2022-07-06
-uamqp,2022-08-18,2022-08-17
-unidic-lite,2021-01-25,2020-09-01
-virtualenv-clone,2021-09-07,2021-09-06
-wcmatch,2022-05-31,2022-05-27
+tf-models-nightly,2022-09-01,2022-08-31
 xmindparser,2021-07-23,2019-01-19
