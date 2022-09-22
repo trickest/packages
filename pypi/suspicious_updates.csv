@@ -4,6 +4,7 @@ adafruit-circuitpython-typing,2022-08-26,2022-08-24
 albumentations,2022-09-20,2022-09-19
 arrow,2022-09-03,2022-08-31
 authlib,2022-09-13,2022-09-09
+autogluon-core,2022-09-22,2022-09-21
 aws-secretsmanager-caching,2021-03-11,2021-03-10
 bbcode,2019-12-31,2019-12-27
 bumpversion,2020-05-14,2019-11-26
@@ -19,7 +20,6 @@ django-configurations,2022-09-01,2022-08-25
 django-lifecycle,2022-05-29,2022-05-28
 django-q,2021-06-27,2021-06-26
 drf-jwt,2022-01-09,2022-01-08
-elasticsearch,2022-09-20,2022-09-13
 getmac,2022-06-01,2022-05-12
 google-cloud-profiler,2022-06-24,2022-06-23
 googledrivedownloader,2019-05-20,2019-02-09
@@ -27,6 +27,7 @@ grandalf,2020-03-19,2020-03-17
 htmllistparse,2021-01-22,2021-01-07
 httpstan,2022-08-14,2022-08-11
 hubspot-api-client,2022-08-15,2022-08-12
+humanize,2022-09-21,2022-09-11
 ibm-watson,2022-08-11,2022-08-10
 infi-clickhouse-orm,2022-07-24,2022-07-19
 ipcqueue,2022-01-27,2021-09-11
@@ -40,6 +41,7 @@ lomond,2018-09-21,2018-07-05
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
 msgpack-numpy,2022-06-09,2022-04-28
+mypy-boto3-sagemaker,2022-09-21,2022-09-20
 newrelic-telemetry-sdk,2022-07-11,2022-07-09
 pantab,2022-09-14,2021-04-07
 pebble,2022-09-13,2022-09-12
@@ -153,7 +155,8 @@ pyobjc-framework-videotoolbox,2022-09-18,2022-09-15
 pyobjc-framework-vision,2022-09-18,2022-09-15
 pyobjc-framework-webkit,2022-09-18,2022-09-15
 pyppmd,2022-07-30,2022-07-29
-pytest-testmon,2022-09-16,2022-09-09
+pytest-testmon,2022-09-21,2022-09-09
+python-arango,2022-09-22,2022-09-21
 python-jsonrpc-server,2020-09-08,2020-09-07
 python-logstash,2022-03-30,2022-03-28
 python-monkey-business,2016-03-22,2016-03-19
@@ -162,7 +165,8 @@ quantile-python,2015-02-11,2013-09-21
 rauth,2017-01-22,2015-11-05
 requests-ntlm,2017-10-18,2017-09-19
 resize-right,2022-05-05,2021-12-08
-resnest,2022-09-20,2021-05-18
+resnest,2022-09-21,2021-05-18
+scikit-learn-intelex,2022-09-21,2022-09-19
 spacy-alignments,2022-04-06,2022-04-05
 sparkdl,2018-05-16,2017-09-15
 splitio-client,2022-07-26,2022-07-25
