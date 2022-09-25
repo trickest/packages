@@ -31,8 +31,6 @@ package,url
 @absolunet/nwayo-workflow,https://img.shields.io/badge/code_style-
 @absolunet/nwayo-workflow,https://img.shields.io/npm/v/
 @absolunet/nwayo-workflow,https://magento.com
-@absolunet/nwayo-workflow,https://wordpress.org
-@absolunet/nwayo-workflow,https://www.npmjs.com/search?q=keywords:nwayo-extension
 @absolunet/nwayo-workflow,https://www.sitecore.net
 @ackee/react-scripts,https://coveralls.io/github/AckeeCZ/create-react-app?branch=master
 @ackee/react-scripts,https://david-dm.org/AckeeCZ/create-react-app
@@ -460,7 +458,6 @@ package,url
 @bolt/uikit-workshop,https://github.com/pattern-lab/patternlab-node/blob/master/packages/uikit-workshop/.github/CONTRIBUTING.md
 @bolt/uikit-workshop,https://github.com/sghoweri
 @bolt/uikit-workshop,https://img.shields.io/npm/v/
-@boundless-inc/mobiledoc-dom-renderer,http://coryforsyth.com/
 @boundless-inc/mobiledoc-dom-renderer,https://github.com/boundless-inc/mobiledoc-dom-renderer
 @boundless-inc/mobiledoc-dom-renderer,https://github.com/boundless-inc/mobiledoc-dom-renderer.git
 @boundless-inc/mobiledoc-dom-renderer,https://github.com/boundless-inc/mobiledoc-dom-renderer/issues
@@ -688,6 +685,7 @@ package,url
 @encrypt-s/netlify-cms,http://neutyp.com
 @encrypt-s/netlify-cms,http://okonet.ru
 @encrypt-s/netlify-cms,http://roryclaasen.me
+@encrypt-s/netlify-cms,http://sumeetjain.com
 @encrypt-s/netlify-cms,http://www.damienduhamel.fr
 @encrypt-s/netlify-cms,http://www.wickett.ca
 @encrypt-s/netlify-cms,https://github.com/AustinGreen
@@ -1265,7 +1263,6 @@ package,url
 @jimpick/ipfs,https://npmjs.org/electron-webrtc
 @jimpick/ipfs,https://npmjs.org/wrtc
 @jimpick/ipfs,https://unpkg.com/ipfs/dist/index.js
-@jimpick/ipfs,https://unpkg.com/ipfs/dist/index.min.js
 @jimpick/ipfs,https://waffle.io/ipfs/js-ipfs
 @jimpick/ipfs,https://waffle.io/ipfs/js-ipfs/metrics/throughput
 @jimpick/ipfs,https://www.npmjs.com/package/buffer
@@ -1325,13 +1322,11 @@ package,url
 @kuinox/testpackagethatnooneshoulduse,https://github.com/npm/cli.git
 @kuinox/testpackagethatnooneshoulduse,https://npm.community/c/bugs
 @kuinox/testpackagethatnooneshoulduse,https://npm.community/t/installing-upgrading-npm/251/2
-@kuinox/testpackagethatnooneshoulduse,https://www.npmjs.com/policies/terms
 @kuinox/testpackagethatnooneshoulduseever,https://github.com/felixrieseberg/npm-windows-upgrade
 @kuinox/testpackagethatnooneshoulduseever,https://github.com/npm/cli
 @kuinox/testpackagethatnooneshoulduseever,https://github.com/npm/cli.git
 @kuinox/testpackagethatnooneshoulduseever,https://npm.community/c/bugs
 @kuinox/testpackagethatnooneshoulduseever,https://npm.community/t/installing-upgrading-npm/251/2
-@kuinox/testpackagethatnooneshoulduseever,https://www.npmjs.com/policies/terms
 @launchpadlab/react-static,https://github.com/nozzle/react-static
 @launchpadlab/react-static,https://github.com/nozzle/react-static.git
 @launchpadlab/react-static,https://github.com/nozzle/react-static/issues
@@ -1879,6 +1874,7 @@ package,url
 @pawjs/pawjs,https://github.com/Atyantik/pawjs/blob/master/LICENSE.md
 @pawjs/pawjs,https://github.com/Atyantik/pawjs/issues
 @pawjs/pawjs,https://opencollective.com/react-pwa
+@pawjs/pawjs,https://snyk.io/test/github/Atyantik/pawjs/badge.svg
 @pawjs/pawjs,https://www.atyantik.com/wp-content/uploads/2018/06/192-192.png
 @pegakit/build-tools,http://pegakit.io/
 @pegakit/build-tools,https://david-dm.org/pega-digital/pegakit-build-tools
@@ -2209,14 +2205,12 @@ package,url
 @sailshq/lodash,https://github.com/lodash/lodash/issues/2768
 @sailshq/lodash,https://github.com/lodash/lodash/tree/3.10.1/test.
 @sailshq/lodash,https://github.com/treelinehq/lodash
-@sailshq/lodash,https://lodash.com/docs/3.10.1
 @sailshq/lodash,https://nodei.co/npm/
 @salomvary/npm,https://github.com/felixrieseberg/npm-windows-upgrade
 @salomvary/npm,https://github.com/npm/cli
 @salomvary/npm,https://github.com/npm/cli.git
 @salomvary/npm,https://npm.community/c/bugs
 @salomvary/npm,https://npm.community/t/installing-upgrading-npm/251/2
-@salomvary/npm,https://www.npmjs.com/policies/terms
 @saritasa/react-scripts,https://github.com/facebook/create-react-app
 @saritasa/react-scripts,https://github.com/facebook/create-react-app/blob/master/README.md
 @saritasa/react-scripts,https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
@@ -3038,7 +3032,6 @@ package,url
 @unaussprechlich/keystone,https://github.com/unaussprechlich/keystone.git
 @unaussprechlich/keystone,https://github.com/unaussprechlich/keystone/issues
 @unaussprechlich/keystone,https://keystonejs.com/documentation/configuration
-@unaussprechlich/keystone,https://keystonejs.com/documentation/database
 @unction/complete,http://api.example.com/profiles/24
 @unction/complete,https://github.com/krainboltgreene/unction.js
 @unction/complete,https://github.com/krainboltgreene/unction.js.git
@@ -3684,6 +3677,7 @@ ajv,https://github.com/webpack-contrib/extract-text-webpack-plugin
 ajv,https://github.com/webpack/webpack
 ajv,https://github.com/wikimedia/restbase
 ajv,https://img.shields.io/badge/
+ajv,https://rawgit.com/zaggino/z-schema/master/benchmark/results.html
 ajv-keywords,https://api.dependabot.com/badges/status?host=github
 ajv-keywords,https://app.dependabot.com/accounts/ajv-validator/repos/60477053
 ajv-keywords,https://github.com/ajv-validator/ajv
@@ -3794,6 +3788,7 @@ alooma-netlify-cms,http://linkedin/in/xifengjin88
 alooma-netlify-cms,http://neutyp.com
 alooma-netlify-cms,http://okonet.ru
 alooma-netlify-cms,http://roryclaasen.me
+alooma-netlify-cms,http://sumeetjain.com
 alooma-netlify-cms,http://www.damienduhamel.fr
 alooma-netlify-cms,http://www.wickett.ca
 alooma-netlify-cms,https://github.com/AustinGreen
@@ -4175,7 +4170,6 @@ antd,https://david-dm.org/ant-design/ant-design
 antd,https://david-dm.org/ant-design/ant-design?type=dev
 antd,https://dependabot.com/compatibility-score.html/?dependency-name=antd
 antd,https://dev.azure.com/ant-design/ant-design/_build/latest?definitionId=2?branchName=master
-antd,https://flat.badgen.net/npm/v/antd?icon=npm
 antd,https://gemnasium.com/ant-design/ant-design
 antd,https://github.com/Brooooooklyn/ts-import-plugin
 antd,https://github.com/actions-cool/issues-helper
@@ -5421,7 +5415,6 @@ badin-react,https://github.com/facebook/create-react-app/issues
 badin-react,https://github.com/nemanjaMiljkovic/create-react-app
 badin-react,https://github.com/nemanjaMiljkovic/create-react-app.git
 balanced-match,http://juliangruber.com
-balanced-match,https://ci.testling.com/juliangruber/balanced-match.png
 balanced-match,https://github.com/juliangruber/balanced-match
 balanced-match,https://github.com/juliangruber/balanced-match/issues
 balanced-match,https://www.npmjs.org/package/balanced-match
@@ -5558,7 +5551,6 @@ bcrypt,https://github.com/tootallnate
 bcrypt,https://github.com/vadimg
 bcrypt,https://github.com/vincentcr
 bcrypt,https://github.com/weareu
-bcrypt-nodejs,http://code.google.com/p/javascript-bcrypt/
 bcrypt-nodejs,https://github.com/NicolasPelletier
 bcrypt-nodejs,https://github.com/alexmurray
 bcrypt-nodejs,https://github.com/geekymole
@@ -5567,7 +5559,6 @@ bcrypt-nodejs,https://github.com/ncb000gt/node.bcrypt.js.git
 bcrypt-nodejs,https://github.com/ncb000gt/node.bcrypt.js/issues/102
 bcrypt-nodejs,https://github.com/shaneGirish/bcrypt-nodejs/issues
 bcrypt-nodejs,https://github.com/shaneGirish/bcryptJS.git
-bcryptjs,http://code.google.com/p/javascript-bcrypt/
 bcryptjs,https://github.com/NicolasPelletier
 bcryptjs,https://github.com/alexmurray
 bcryptjs,https://github.com/dcodeIO/bcrypt.js
@@ -5837,7 +5828,6 @@ boolbase,https://github.com/fb55/boolbase/issues
 boom,http://github.com/hapijs/boom/raw/master/LICENSE
 boom,http://github.com/hueniverse/boom/raw/master/LICENSE
 boom,http://github.com/spumko/boom/raw/master/LICENSE
-boom,http://jsgeek.com
 boom,https://github.com/hapijs/boom
 boom,https://github.com/hapijs/boom/issues
 boom,https://github.com/hapijs/hapi/blob/master/API.md
@@ -5949,6 +5939,7 @@ botserver,https://github.com/pragmatismo-io/botserver.git
 botserver,https://github.com/pragmatismo-io/botserver/issues
 botserver,https://github.com/prettier/prettier
 botserver,https://github.com/semantic-release/semantic-release
+botserver,https://snyk.io/test/github/GeneralBots/BotServer
 botserver,https://snyk.io/test/github/GeneralBots/BotServer/badge.svg
 botserver,https://stackoverflow.com/questions/tagged/generalbots
 botserver,https://travis-ci.com/GeneralBots/BotServer
@@ -5966,13 +5957,16 @@ bower,https://github.com/bower/bower/workflows/build/badge.svg
 bower,https://github.com/twitter/bower/blob/master/LICENSE
 bower,https://opencollective.com/bower/backer/2/website
 bower,https://opencollective.com/bower/backer/30/website
-bower,https://opencollective.com/bower/backer/37/website
+bower,https://opencollective.com/bower/backer/34/website
+bower,https://opencollective.com/bower/backer/35/website
+bower,https://opencollective.com/bower/backer/36/website
 bower,https://opencollective.com/bower/backer/38/avatar.svg
 bower,https://opencollective.com/bower/backer/38/website
 bower,https://opencollective.com/bower/backer/39/avatar.svg
 bower,https://opencollective.com/bower/backer/39/website
 bower,https://opencollective.com/bower/backer/6/website
 bower,https://opencollective.com/bower/sponsor/14/website
+bower,https://opencollective.com/bower/sponsor/15/website
 bower,https://opencollective.com/bower/sponsor/18/website
 bower,https://opencollective.com/bower/sponsor/24/website
 bower,https://opencollective.com/bower/tiers/sponsors/20/avatar.svg
@@ -6970,7 +6964,6 @@ cli-table2,https://github.com/jamestalmage/cli-table2.git
 cli-table2,https://github.com/jamestalmage/cli-table2/blob/master/advanced-usage.md
 cli-table2,https://github.com/jamestalmage/cli-table2/blob/master/basic-usage.md
 cli-table2,https://github.com/jamestalmage/cli-table2/issues
-cli-ux,https://codecov.io/bash
 cli-ux,https://github.com/anycli/cli-ux
 cli-ux,https://github.com/anycli/cli-ux.git
 cli-ux,https://github.com/anycli/cli-ux/issues
@@ -7054,7 +7047,6 @@ cloudlify-keystone,https://github.com/keystonejs/keystone/wiki/Related-Projects
 cloudlify-keystone,https://github.com/motdotla/dotenv
 cloudlify-keystone,https://github.com/mxstbr
 cloudlify-keystone,https://keystonejs.com/documentation/configuration
-cloudlify-keystone,https://keystonejs.com/documentation/database
 cloudlify-keystone,https://keystonejs.com/guides/v-0-3-to-v-4-0-upgrade-guide
 clui,https://changelogs.md/img/changelog-check-green.svg
 clui,https://github.com/medikoo/cli-color
@@ -7274,12 +7266,6 @@ command-line-args,https://github.com/feross/standard
 command-line-args,https://www.npmjs.org/package/command-line-args
 command-line-usage,https://badgen.net/david/dep/75lb/command-line-usage
 command-line-usage,https://david-dm.org/75lb/command-line-usage
-command-line-usage,https://github.com/75lb/command-line-usage/releases
-command-line-usage,https://github.com/75lb/command-line-usage/wiki
-command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-add-a-banner-to-your-usage-guide
-command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-add-a-command-list-to-your-usage-guide
-command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-add-a-description-section-to-your-usage-guide
-command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-add-an-examples-section-to-your-usage-guide
 command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-break-the-option-list-up-into-groups
 command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-create-a-typical-usage-guide
 command-line-usage,https://github.com/75lb/command-line-usage/wiki/How-to-handle-whitespace
@@ -7593,7 +7579,6 @@ config,https://github.com/nsabovic
 config,https://github.com/robertrossmann
 config,https://github.com/simon-scherzinger
 config,https://github.com/th507
-config,https://www.npmjs.org/browse/depended/config
 configstore,https://github.com/sindresorhus/conf
 configstore,https://github.com/sindresorhus/dot-prop
 configstore,https://github.com/sindresorhus/electron-store
@@ -7647,7 +7632,6 @@ connect-flash,http://substack.net/posts/b96642/the-node-js-aesthetic
 connect-flash,http://www.jaredhanson.net/
 connect-flash,https://github.com/jaredhanson/connect-flash/tree/master/examples/express3
 connect-flash,https://github.com/visionmedia
-connect-history-api-fallback,http://github.com/bripkens/connect-history-api-fallback.git
 connect-history-api-fallback,https://github.com/bripkens/connect-history-api-fallback
 connect-history-api-fallback,https://github.com/bripkens/connect-history-api-fallback/issues
 connect-mongo,https://david-dm.org/jdesboeufs/connect-mongo
@@ -8057,6 +8041,7 @@ cron,http://github.com/ncb000gt/node-cron/issues
 cron,http://github.com/neyric
 cron,http://github.com/padolsey/cron.js
 cron,http://github.com/spiceapps
+cron,https://badgen.net/bundlephobia/min/cron
 cron,https://badgen.net/bundlephobia/minzip/cron
 cron,https://badgen.net/david/dep/kelektiv/node-cron
 cron,https://badgen.net/david/dev/kelektiv/node-cron
@@ -8201,8 +8186,6 @@ crypto,https://github.com/Gozala/crypto
 crypto,https://github.com/npm/deprecate-holder
 crypto,https://github.com/npm/deprecate-holder.git
 crypto,https://github.com/npm/deprecate-holder/issues
-crypto-js,http://github.com/brix/crypto-js
-crypto-js,http://github.com/brix/crypto-js.git
 crypto-js,http://github.com/evanvosberg
 crypto-js,http://github.com/evanvosberg/crypto-js
 crypto-js,http://github.com/evanvosberg/crypto-js.git
@@ -8389,6 +8372,7 @@ ctartist621-sails,https://github.com/visionmedia
 ctartist621-sails,https://github.com/zohararad/sails-rest
 ctartist621-sails,https://www.npmjs.org/package/sails-neo4j
 cuid,http://github.com/lucsky/cuid
+cuid,https://ericelliottjs.com/product/programming-javascript-applications-ebook/
 cuid,https://github.com/crabmusket
 cuid,https://github.com/crabmusket/hscuid
 cuid,https://github.com/dilvie/cuid
@@ -8816,7 +8800,6 @@ date-format,https://github.com/nomiddlename/date-format/actions/workflows/codeql
 date-format,https://github.com/nomiddlename/date-format/actions/workflows/node.js.yml
 date-format,https://github.com/nomiddlename/date-format/actions/workflows/node.js.yml/badge.svg
 date-format,https://github.com/nomiddlename/date-format/issues
-date-format,https://nodei.co/npm/date-format/
 dateformat,https://github.com/felixge/node-dateformat
 dateformat,https://github.com/felixge/node-dateformat.git
 dateformat,https://github.com/felixge/node-dateformat/issues
@@ -8826,7 +8809,6 @@ datetimemodule,https://github.com/npm/cli
 datetimemodule,https://github.com/npm/cli.git
 datetimemodule,https://npm.community/c/bugs
 datetimemodule,https://npm.community/t/installing-upgrading-npm/251/2
-datetimemodule,https://www.npmjs.com/policies/terms
 davanmonet,https://github.com/davidjbradshaw/iframe-resizer
 davanmonet,https://github.com/postcss/postcss-loader
 davanmonet,https://github.com/semantic-release/semantic-release
@@ -9076,6 +9058,7 @@ detect-indent,https://github.com/stefanpenner/detect-indent-rs
 detect-libc,https://github.com/lovell/detect-libc
 detect-libc,https://github.com/lovell/detect-libc/issues
 detect-libc,https://github.com/lovell/detect-libc/tree/v1
+detect-port,http://xdf.me
 detect-port,https://github.com/antife-yinyue
 detect-port,https://github.com/chnliquan
 detect-port,https://github.com/fengmk2
@@ -9698,7 +9681,6 @@ dtrace-provider,https://github.com/chrisa/node-dtrace-provider
 dtrace-provider,https://github.com/chrisa/node-dtrace-provider.git
 dtrace-provider,https://github.com/chrisa/node-dtrace-provider/issues
 duplexer,http://github.com/Raynos/duplexer/raw/master/LICENSE
-duplexer,https://ci.testling.com/Raynos/duplexer.png
 duplexer,https://david-dm.org/Raynos/duplexer
 duplexer,https://david-dm.org/Raynos/duplexer.png
 duplexer,https://github.com/Raynos/duplexer
@@ -9800,7 +9782,6 @@ echarts,https://github.com/xlsdg/react-echarts-v3
 echarts,https://github.com/xlsdg/vue-echarts-v3
 echarts,https://github.com/yihui/recharts
 echarts,https://github.com/yufeiminds/echarts-python
-echarts,https://www.npmjs.com/package/echarts
 eden.js,https://david-dm.org/eden-js/eden.svg?style=flat-square
 eden.js,https://edenjs.com/
 eden.js,https://github.com/eden-js/eden
@@ -9895,7 +9876,6 @@ ejs-loader,https://www.npmjs.com/package/ejs-loader
 elara-app,https://github.com/angular/angular-cli
 elara-app,https://github.com/angular/angular-cli/blob/master/README.md
 elasticsearch,http://elasticsearch.github.io/elasticsearch-js/
-elasticsearch,http://github.com/brozeph
 elasticsearch,http://github.com/elastic/elasticsearch-js.git
 elasticsearch,http://github.com/elasticsearch/elasticsearch-js.git
 elasticsearch,http://github.com/gsf
@@ -10161,6 +10141,7 @@ emojis-list,https://github.com/Kikobeats/trim-emoji
 emojis-list,https://github.com/kikobeats/emojis-list.git
 emojis-list,https://github.com/kikobeats/is-standard-emoji
 emojis-list,https://www.npmjs.org/package/emojis-list
+emotion,https://badge.fury.io/js/emotion
 emotion,https://emotion.now.sh/badge.svg
 emotion,https://emotion.sh/docs/css
 emotion,https://gatsbythemes.com/
@@ -10311,6 +10292,7 @@ envinfo,https://github.com/tabrindle/envinfo/issues?q=author%3Azacanger
 envinfo,https://github.com/webpack/webpack-cli
 envinfo,https://www.gengjiawen.com
 envinfo,https://www.npmjs.com/package/clipboardy
+envinfo,https://www.npmjs.com/package/envinfo
 enzyme,https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jasmine-enzyme
 enzyme,https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme
 enzyme,https://github.com/PsychoLlama/expect-enzyme
@@ -10397,7 +10379,6 @@ errorhandler,https://github.com/expressjs/errorhandler.git
 errorhandler,https://github.com/expressjs/errorhandler/issues
 errorhandler,https://npmjs.org/package/errorhandler
 es-abstract,http://ljharb.codes
-es-abstract,https://ci.testling.com/ljharb/es-abstract.png
 es-abstract,https://david-dm.org/ljharb/es-abstract
 es-abstract,https://david-dm.org/ljharb/es-abstract.svg
 es-abstract,https://david-dm.org/ljharb/es-abstract/dev-status.svg
@@ -10406,6 +10387,7 @@ es-abstract,https://github.com/ljharb/es-abstract
 es-abstract,https://github.com/ljharb/es-abstract/issues
 es-abstract,https://github.com/sponsors/ljharb
 es-abstract,https://npmjs.org/package/es-abstract
+es5-ext,http://code.google.com/p/v8/issues/detail?id=2804
 es5-ext,http://osteele.com/sources/javascript/functional/
 es5-ext,http://wiki.ecmascript.org/doku.php?id=strawman:existential_operator
 es5-ext,https://github.com/mathiasbynens/String.prototype.at
@@ -10443,6 +10425,8 @@ es5-shim,https://github.com/kriskowal/
 es5-shim,https://github.com/ljharb/
 es5-shim,https://npmjs.org/package/es5-shim
 es5-shim,https://string.prototype.lastindexof
+es5-shim,https://www.npmjs.com/package/array.prototype.some
+es5-shim,https://www.npmjs.com/package/array.prototype.splice
 es5-shim,https://www.npmjs.com/package/number.prototype.toexponential
 es5-shim,https://www.npmjs.com/package/object-keys
 es5-shim,https://www.npmjs.com/package/string.prototype.split
@@ -10477,6 +10461,7 @@ es6-react-scripts,https://github.com/facebookincubator/create-react-app/blob/mas
 es6-react-scripts,https://github.com/grengojbo/es6-react-scripts
 es6-react-scripts,https://github.com/grengojbo/es6-react-scripts.git
 es6-react-scripts,https://github.com/grengojbo/es6-react-scripts/issues
+es6-react-scripts,https://www.npmjs.com/search?q=react-scripts
 es6-shim,https://ci.testling.com/paulmillr/es6-shim.png
 es6-shim,https://david-dm.org/paulmillr/es6-shim
 es6-shim,https://david-dm.org/paulmillr/es6-shim.svg
@@ -11218,9 +11203,7 @@ express-session,https://www.npmjs.com/package/connect-mongo
 express-session,https://www.npmjs.com/package/connect-mongodb-session
 express-session,https://www.npmjs.com/package/connect-mssql
 express-session,https://www.npmjs.com/package/connect-mssql-v2
-express-session,https://www.npmjs.com/package/connect-neo4j
 express-session,https://www.npmjs.com/package/connect-pg-simple
-express-session,https://www.npmjs.com/package/connect-redis
 express-session,https://www.npmjs.com/package/connect-session-firebase
 express-session,https://www.npmjs.com/package/connect-session-knex
 express-session,https://www.npmjs.com/package/connect-session-sequelize
@@ -11235,7 +11218,6 @@ express-session,https://www.npmjs.com/package/express-mysql-session
 express-session,https://www.npmjs.com/package/express-nedb-session
 express-session,https://www.npmjs.com/package/express-oracle-session
 express-session,https://www.npmjs.com/package/express-session-cache-manager
-express-session,https://www.npmjs.com/package/express-session-etcd3
 express-session,https://www.npmjs.com/package/express-session-level
 express-session,https://www.npmjs.com/package/express-session-rsdb
 express-session,https://www.npmjs.com/package/express-sessions
@@ -11404,7 +11386,6 @@ fast-glob,https://github.com/mrmlnc/fast-glob.git
 fast-glob,https://github.com/mrmlnc/fast-glob/issues
 fast-glob,https://github.com/mrmlnc/fast-glob/releases
 fast-glob,https://github.com/nodelib/nodelib/blob/master/packages/fs/fs.scandir/README.md
-fast-glob,https://mrmlnc.com
 fast-glob,https://www.npmjs.com/package/normalize-path
 fast-glob,https://www.npmjs.com/package/unixify
 fast-json-stable-stringify,https://github.com/epoberezkin/fast-json-stable-stringify
@@ -11630,6 +11611,7 @@ file-type,https://github.com/sindresorhus/file-type/issues/264
 file-type,https://github.com/sindresorhus/file-type?sponsor=1
 file-type,https://github.com/sindresorhus/is-svg
 file-type,https://github.com/sponsors/sindresorhus
+file-type,https://test-audio.netlify.com/Various%20Artists%20-%202009%20-%20netBloc%20Vol%2024_%20tiuqottigeloot%20%5BMP3-V2%5D/01%20-%20Diablo%20Swing%20Orchestra%20-%20Heroines.mp3
 file-type,https://wiki.blender.org/index.php/Dev:Source/Architecture/File_Format
 file-uri-to-path,https://github.com/TooTallNate/file-uri-to-path
 file-uri-to-path,https://github.com/TooTallNate/file-uri-to-path/actions?workflow=Node
@@ -11715,9 +11697,7 @@ firebase,https://registry.npmjs.org/firebase/-/firebase-0.0.0.tgz
 firebase,https://registry.npmjs.org/firebase/-/firebase-0.6.21.tgz
 firebase,https://registry.npmjs.org/firebase/-/firebase-1.0.1.tgz
 firebase,https://registry.npmjs.org/firebase/-/firebase-1.0.4.tgz
-firebase,https://registry.npmjs.org/firebase/-/firebase-6.3.5-canary.7ab25c6.tgz
 firebase,https://www.gstatic.com/firebasejs/
-firebase,https://www.npmjs.com/package/firebase
 firebase-admin,https://casetext.com/
 firebase-admin,https://casetext.com/about
 firebase-admin,https://github.com/casetext/firebase-admin/blob/master/LICENSE
@@ -12069,7 +12049,6 @@ fs-promise,https://www.npmjs.org/package/fs-extra
 fs.realpath,https://github.com/isaacs/fs.realpath
 fs.realpath,https://github.com/isaacs/fs.realpath.git
 fs.realpath,https://github.com/isaacs/fs.realpath/issues
-fsevents,https://fsevents-binaries.s3-us-west-2.amazonaws.com
 fsevents,https://github.com/fsevents/fsevents
 fsevents,https://github.com/fsevents/fsevents.git
 fsevents,https://github.com/fsevents/fsevents/issues
@@ -12091,7 +12070,6 @@ fstream,https://github.com/isaacs/fstream/issues
 fstream,https://github.com/npm/fstream
 fstream,https://github.com/npm/fstream.git
 fstream,https://github.com/npm/fstream/issues
-function-bind,https://ci.testling.com/Raynos/function-bind.png
 function-bind,https://coveralls.io/r/Raynos/function-bind
 function-bind,https://david-dm.org/Raynos/function-bind
 function-bind,https://david-dm.org/Raynos/function-bind.svg
@@ -12821,7 +12799,6 @@ gray-matter,https://github.com/verbose/verb-generate-readme
 gray-matter,https://github.com/zachwhaley
 gray-matter,https://linkedin.com/in/jonschlinkert
 gray-matter,https://npmjs.org/package/gray-matter
-gray-matter,https://www.npmjs.com/package/assemble
 gray-matter,https://www.npmjs.com/package/gray-matter
 gray-matter,https://www.npmjs.com/package/metalsmith
 gray-matter,https://www.npmjs.com/package/verb
@@ -13348,7 +13325,6 @@ handlebars-loader,https://www.npmjs.com/package/handlebars-loader
 hapi,http://github.com/hapijs/hapi/raw/master/LICENSE
 hapi,http://github.com/spumko/hapi/raw/master/LICENSE
 hapi,http://github.com/walmartlabs/hapi/raw/master/LICENSE
-hapi,http://jsgeek.com
 hapi,https://getonchords.com
 hapi,https://github.com/hapijs/discuss
 hapi,https://github.com/hapijs/hapi
@@ -13454,7 +13430,6 @@ he,https://github.com/mathiasbynens/he
 he,https://github.com/mathiasbynens/he.git
 he,https://github.com/mathiasbynens/he/issues
 he,https://mths.be/he
-he,https://simon.html5.org/
 heimdalljs,https://github.com/heimdalljs/heimdalljs-lib.git
 heimdalljs,https://github.com/heimdalljs/heimdalljs-logger
 heimdalljs,https://github.com/hjdivad/heimdall-lib
@@ -13645,7 +13620,6 @@ hitom-front-boot,https://github.com/mobxjs/mobx
 hoek,http://github.com/hapijs/hoek/raw/master/LICENSE
 hoek,http://github.com/spumko/hoek/raw/master/LICENSE
 hoek,http://github.com/walmartlabs/hoek/raw/master/LICENSE
-hoek,http://jsgeek.com
 hoek,https://github.com/hapijs/hoek
 hoek,https://github.com/hapijs/hoek/issues
 hoek,https://github.com/jashkenas/underscore
@@ -13697,7 +13671,6 @@ horizontec-keystone,https://github.com/keystonejs/keystone/wiki/Related-Projects
 horizontec-keystone,https://github.com/motdotla/dotenv
 horizontec-keystone,https://github.com/mxstbr
 horizontec-keystone,https://keystonejs.com/documentation/configuration
-horizontec-keystone,https://keystonejs.com/documentation/database
 horizontec-keystone,https://keystonejs.com/guides/v-0-3-to-v-4-0-upgrade-guide
 hornet-js-builder,https://github.com/diplomatiegouvfr/hornet-js-builder.git
 hornet-js-builder,https://github.com/diplomatiegouvfr/hornet-js-builder/issues
@@ -14283,7 +14256,6 @@ img-loader,https://github.com/webpack/url-loader
 img-loader,https://www.npmjs.org/package/img-loader
 imli,https://opencollective.com/react-pwa
 immediate,http://ie.microsoft.com/testdrive/Performance/setImmediateSorting/Default.html
-immediate,https://ci.testling.com/calvinmetcalf/immediate.png
 immediate,https://github.com/NobleJS/setImmediate
 immediate,https://github.com/YuzuJS/setImmediate
 immediate,https://github.com/calvinmetcalf/immediate
@@ -14406,6 +14378,7 @@ infinidesk-web-widget,https://github.com/facebook/create-react-app
 infinidesk-web-widget,https://infinacle.com/wp-content/uploads/2018/10/footer_logo_100x100.png
 infinidesk-web-widget,https://www
 infinidesk-web-widget,https://www.npmjs.com/package/infinidesk-web-widget
+inflection,http://code.google.com/p/inflection-js/
 inflection,https://github.com/dreamerslab/node.inflection
 inflection,https://github.com/dreamerslab/node.inflection.git
 inflection,https://github.com/dreamerslab/node.inflection/issues
@@ -14526,6 +14499,7 @@ interpret,https://github.com/tkellen/node-interpret/blob/master/LICENSE
 interpret,https://github.com/tkellen/node-interpret/issues
 interpret,https://gitter.im/gulpjs/gulp
 interpret,https://www.npmjs.com/package/interpret
+intl,https://code.google.com/p/v8/issues/detail?id=2694
 intl,https://github.com/andyearnshaw/Intl.js
 intl,https://github.com/andyearnshaw/Intl.js.git
 intl,https://github.com/andyearnshaw/Intl.js/blob/master/CONTRIBUTING.md
@@ -15087,7 +15061,6 @@ ipfs,https://travis-ci.com/multiformats/js-multihash
 ipfs,https://travis-ci.com/multiformats/js-multihashing
 ipfs,https://unpkg.com/ipfs
 ipfs,https://unpkg.com/ipfs/dist/index.js
-ipfs,https://unpkg.com/ipfs/dist/index.min.js
 ipfs,https://waffle.io/ipfs/js-ipfs
 ipfs,https://waffle.io/ipfs/js-ipfs/metrics/throughput
 ipfs,https://www.npmjs.com/package/buffer
@@ -15287,7 +15260,6 @@ ipfs-ci-test,https://graphs.waffle.io/ipfs/js-ipfs/throughput.svg
 ipfs-ci-test,https://npmjs.org/electron-webrtc
 ipfs-ci-test,https://npmjs.org/wrtc
 ipfs-ci-test,https://unpkg.com/ipfs/dist/index.js
-ipfs-ci-test,https://unpkg.com/ipfs/dist/index.min.js
 ipfs-ci-test,https://waffle.io/ipfs/js-ipfs
 ipfs-ci-test,https://waffle.io/ipfs/js-ipfs/metrics/throughput
 ipfs-ci-test,https://www.npmjs.com/package/buffer
@@ -15474,7 +15446,6 @@ ipfs-hd,https://graphs.waffle.io/ipfs/js-ipfs/throughput.svg
 ipfs-hd,https://npmjs.org/electron-webrtc
 ipfs-hd,https://npmjs.org/wrtc
 ipfs-hd,https://unpkg.com/ipfs/dist/index.js
-ipfs-hd,https://unpkg.com/ipfs/dist/index.min.js
 ipfs-hd,https://waffle.io/ipfs/js-ipfs
 ipfs-hd,https://waffle.io/ipfs/js-ipfs/metrics/throughput
 ipfs-hd,https://www.npmjs.com/package/buffer
@@ -15640,7 +15611,6 @@ ipfs-vue,https://travis-ci.com/multiformats/js-multiaddr
 ipfs-vue,https://travis-ci.com/multiformats/js-multihash
 ipfs-vue,https://travis-ci.com/multiformats/js-multihashing
 ipfs-vue,https://unpkg.com/ipfs/dist/index.js
-ipfs-vue,https://unpkg.com/ipfs/dist/index.min.js
 ipfs-vue,https://waffle.io/ipfs/js-ipfs
 ipfs-vue,https://waffle.io/ipfs/js-ipfs/metrics/throughput
 ipfs-vue,https://www.npmjs.com/package/buffer
@@ -15658,7 +15628,6 @@ iqs-services-components-node,https://gitlab.com/iqs-services/iqs-services-compon
 iqs-services-components-node,https://gitlab.com/iqs-services/iqs-services-components-node/issues
 is,http://onirame.com
 is,http://onirame.no.de
-is,https://ci.testling.com/enricomarino/is.png
 is,https://david-dm.org/enricomarino/is
 is,https://david-dm.org/enricomarino/is.svg
 is,https://david-dm.org/enricomarino/is/dev-status.svg
@@ -15762,7 +15731,6 @@ is-glob,https://github.com/verbose/verb
 is-glob,https://github.com/verbose/verb-generate-readme
 is-glob,https://linkedin.com/in/jonschlinkert
 is-glob,https://npmjs.org/package/is-glob
-is-glob,https://www.npmjs.com/package/assemble
 is-glob,https://www.npmjs.com/package/base
 is-glob,https://www.npmjs.com/package/is-glob
 is-glob,https://www.npmjs.com/package/update
@@ -15846,7 +15814,6 @@ is-wsl,https://github.com/sindresorhus/is-wsl
 is-wsl,https://github.com/sindresorhus/is-wsl.git
 is-wsl,https://github.com/sindresorhus/is-wsl/issues
 isarray,http://juliangruber.com
-isarray,https://ci.testling.com/juliangruber/isarray.png
 isarray,https://github.com/feross/thanks
 isarray,https://github.com/juliangruber/isarray
 isarray,https://github.com/juliangruber/isarray/issues
@@ -15915,6 +15882,7 @@ isstream,https://github.com/isaacs/readable-stream
 isstream,https://github.com/rvagg/isstream
 isstream,https://github.com/rvagg/isstream.git
 isstream,https://github.com/rvagg/isstream/issues
+istanbul,http://code.google.com/p/google-code-prettify/
 istanbul,http://gotwarlost.github.com/istanbul/public/apidocs/index.html
 istanbul,http://gotwarlost.github.com/istanbul/public/coverage/lcov-report/index.html
 istanbul,https://gemnasium.com/gotwarlost/istanbul
@@ -16007,7 +15975,6 @@ istextorbinary,https://slack.bevry.me
 isv-cli,https://github.com/coreybutler/nvm-windows
 isv-cli,https://github.com/creationix/nvm
 iterall,http://facebook.github.io/immutable-js/
-iterall,http://www.2ality.com/2013/05/quirk-array-like-objects.html
 iterall,https://github.com/leebyron/iterall
 iterall,https://github.com/leebyron/iterall.git
 iterall,https://github.com/leebyron/iterall/issues
@@ -16039,6 +16006,7 @@ iview,https://github.com/lison16
 iview,https://github.com/rijn
 iview,https://github.com/yangdan8
 iview,https://npmjs.org/package/iview
+iview,https://www.baidu.com/
 iview,https://www.iviewui.com/docs/guide/install-en
 iview,https://www.npmjs.org/package/iview
 jade,http://github.com/everzet/jade.php
@@ -16160,7 +16128,6 @@ jnwb,https://www.npmjs.org/package/nwb
 joi,http://github.com/hapijs/joi/raw/master/LICENSE
 joi,http://github.com/spumko/joi/raw/master/LICENSE
 joi,http://github.com/walmartlabs/joi/raw/master/LICENSE
-joi,http://jsgeek.com
 joi,https://github.com/hapijs/joi
 joi,https://github.com/hapijs/joi/issues
 joi,https://github.com/sideway/joi
@@ -16364,7 +16331,6 @@ jsdoc,https://github.com/nhnent/tui.jsdoc-template
 jsdoc,https://nhnent.github.io/tui.jsdoc-template/latest/
 jsdoc,https://softwarebrothers.github.io/admin-bro-dev/index.html
 jsdom,http://blog.olivier-elmekki.com/
-jsdom,http://github.com/brianmcd
 jsdom,http://github.com/d-ash
 jsdom,http://github.com/hij1nx
 jsdom,http://github.com/matthewpflueger/
@@ -16438,8 +16404,6 @@ json-schema-traverse,https://github.com/epoberezkin/json-schema-traverse/blob/ma
 json-schema-traverse,https://github.com/epoberezkin/json-schema-traverse/issues
 json-schema-traverse,https://github.com/epoberezkin/json-schema-traverse/workflows/build/badge.svg
 json-schema-traverse,https://www.npmjs.com/package/json-schema-traverse
-json-stable-stringify,https://ci.testling.com/substack/json-stable-stringify
-json-stable-stringify,https://ci.testling.com/substack/json-stable-stringify.png
 json-stable-stringify,https://github.com/substack/json-stable-stringify
 json-stable-stringify,https://github.com/substack/json-stable-stringify/issues
 json-stringify-safe,https://github.com/isaacs/json-stringify-safe
@@ -16747,7 +16711,6 @@ keystone,https://github.com/keystonejs/keystone/wiki/Related-Projects
 keystone,https://github.com/motdotla/dotenv
 keystone,https://github.com/mxstbr
 keystone,https://keystonejs.com/documentation/configuration
-keystone,https://keystonejs.com/documentation/database
 keystone-diamantidou,http://keystonejs.com/images/logo.svg
 keystone-diamantidou,https://aodysseos:yYEFgZsrQEhJMA7vKKgq
 keystone-diamantidou,https://github.com/JedWatson
@@ -17115,6 +17078,7 @@ koa-static,https://github.com/koajs/static/tags
 koa-static,https://img.shields.io/gittip/jonathanong.svg?style=flat-square
 koa-static,https://npmjs.org/package/koa-static
 koa-static,https://www.gittip.com/jonathanong/
+koiki,https://chaus.herokuapp.com/apis/koiki/people
 koiki,https://github.com/sideroad/corkpin/commit/e5eeb7f46d6382dd27ce5622c2a60e0a01bc3194
 koiki,https://github.com/sideroad/floras/commit/68ee25cccdc94cc5bbb544d7f6e99842a6ff3300
 koiki,https://github.com/sideroad/koiki
@@ -17571,7 +17535,6 @@ loader-utils,https://github.com/webpack/loader-utils/issues
 loader-utils,https://www.npmjs.com/package/clone
 localforage,http://github.com/localForage/localForage/issues
 localforage,http://github.com/mozilla/localForage/issues
-localforage,https://badgen.net/bundlephobia/minzip/localforage
 localforage,https://david-dm.org/localForage/localForage
 localforage,https://github.com/Alorel/ngforage/
 localforage,https://github.com/dmlzj/vlf
@@ -17886,7 +17849,6 @@ log4js,https://github.com/nomiddlename/log4js-node
 log4js,https://github.com/nomiddlename/log4js-node.git
 log4js,https://github.com/rnd-debug/log4js-influxdb-appender
 log4js,https://github.com/stritti/log4js
-log4js,https://nodei.co/npm/log4js/
 log4js,https://nomiddlename.github.io/log4js-node/
 logform,https://github.com/indexzero
 logform,https://github.com/taylorhakes/fecha
@@ -17949,6 +17911,7 @@ lru-cache,https://github.com/isaacs/node-lru-cache
 lru-cache,https://github.com/isaacs/node-lru-cache/issues
 lru-cache,https://github.com/isaacs/node-lru-cache/issues/227
 lru-cache,https://npmjs.com/package/lru-fast
+luck-react,https://registry.npmjs.org/luck-react/-/luck-react-0.0.68.tgz
 maha,https://codeclimate.com/github/mahaplatform/maha/coverage
 maha,https://github.com/mahaplatform/maha
 maha,https://github.com/mahaplatform/maha.git
@@ -18507,7 +18470,6 @@ mikser,https://github.com/sstephenson/eco
 mikser,https://github.com/toml-lang/toml
 mikser,https://www.npmjs.com/package/mikser
 mime,http://github.com/bentomas/node-mime
-mime,http://github.com/broofa
 mime,https://github.com/broofa/mime
 mime,https://github.com/broofa/mime-score
 mime,https://github.com/broofa/mime.git
@@ -18518,7 +18480,6 @@ mime,https://github.com/broofa/node-mime/issues
 mime,https://github.com/broofa/runmd
 mime,https://github.com/jshttp/mime-db
 mime,https://github.com/jshttp/mime-types
-mime-db,http://github.com/broofa
 mime-db,https://cdn.jsdelivr.net/gh/jshttp/mime-db
 mime-db,https://github.com/jshttp/mime-db
 mime-db,https://github.com/jshttp/mime-db.git
@@ -18550,7 +18511,6 @@ mimic-response,https://github.com/sindresorhus/mimic-response/issues
 mimic-response,https://github.com/sponsors/sindresorhus
 min-document,http://github.com/Colingo/min-document/raw/master/LICENSE
 min-document,http://github.com/Raynos/min-document/raw/master/LICENSE
-min-document,https://ci.testling.com/Raynos/min-document.png
 min-document,https://david-dm.org/Raynos/min-document
 min-document,https://david-dm.org/Raynos/min-document.png
 min-document,https://github.com/Colingo/min-document
@@ -18579,7 +18539,6 @@ minimatch,https://github.com/isaacs/minimatch
 minimatch,https://github.com/isaacs/minimatch/issues
 minimist,https://github.com/substack/minimist
 minimist,https://github.com/substack/minimist/issues
-minipass,http://npm.im/make-fetch-happen
 minipass,http://npm.im/minipass-collect
 minipass,http://npm.im/minipass-fetch
 minipass,http://npm.im/minipass-flush
@@ -18724,7 +18683,6 @@ mobx,https://opencollective.com/mobx/sponsor/58/website
 mobx,https://opencollective.com/mobx/sponsor/59/website
 mobx,https://talentplot.com/
 mobx,https://unpkg.com/mobx/lib/mobx.umd.js
-mobx,https://www.amazon.com/MobX-Quick-Start-Guide-Supercharge/dp/1789344832
 mobx,https://www.faire.com/
 mobx-react,http://mobxjs.github.io/mobx/intro/overview.html
 mobx-react,https://github.com/bartonhammond/mobx-react-native-counter
@@ -19033,7 +18991,6 @@ mocha,https://github.com/yuitest
 mocha,https://github.com/zetaben
 mocha,https://github.com/zhiyelee
 mocha,https://github.com/zzen
-mocha,https://ibin.co/4QuRuGjXvl36.png
 mocha,https://opencollective.com/mochajs
 mocha,https://opencollective.com/mochajs/backer/0/website
 mocha,https://opencollective.com/mochajs/backer/14/website
@@ -19043,7 +19000,6 @@ mocha,https://opencollective.com/mochajs/backer/17/website
 mocha,https://opencollective.com/mochajs/backer/18/website
 mocha,https://opencollective.com/mochajs/backer/19/website
 mocha,https://opencollective.com/mochajs/backer/20/website
-mocha,https://opencollective.com/mochajs/backer/25/website
 mocha,https://opencollective.com/mochajs/backer/26/website
 mocha,https://opencollective.com/mochajs/backer/27/website
 mocha,https://opencollective.com/mochajs/backer/28/website
@@ -19056,6 +19012,7 @@ mocha,https://opencollective.com/mochajs/backer/8/website
 mocha,https://opencollective.com/mochajs/sponsor/5/website
 mocha,https://opencollective.com/mochajs/sponsor/6/website
 mocha,https://opencollective.com/mochajs/sponsor/7/website
+mocha,https://opencollective.com/mochajs/tiers/backers.svg?limit=30
 mocha,https://opencollective.com/mochajs/tiers/sponsors/1/website
 mocha,https://opencollective.com/mochajs/tiers/sponsors/2/website
 mocha,https://opencollective.com/mochajs/tiers/sponsors/3/website
@@ -19166,12 +19123,9 @@ mongodb,https://github.com/mongodb/node-mongodb-native/issues
 mongodb,https://github.com/mongodb/node-mongodb-native/tree/4.0
 mongodb,https://github.com/nodejs/node-gyp
 mongodb,https://mongodb.github.io/node-mongodb-native/4.0/api/
-mongodb,https://nodei.co/npm/mongodb/
 mongodb,https://www.npmjs.com/package/mongodb
 mongodb,https://www.npmjs.com/package/mongodb-core
 mongoose,http://mongodb.github.io/node-mongodb-native/2.1/api/Collection.html
-mongoose,http://slack.mongoosejs.io
-mongoose,http://slack.mongoosejs.io/
 mongoose,http://slack.mongoosejs.io/badge.svg
 mongoose,https://github.com/Automattic/mongoose
 mongoose,https://github.com/Automattic/mongoose/blob/master/CONTRIBUTING.md
@@ -19693,8 +19647,6 @@ needle,https://ko-fi.com/A0A0ASWH3
 needle,https://ko-fi.com/img/githubbutton_sm.svg
 needle,https://my.backend.server.com
 needle,https://my.server.com/foo
-needle,https://news.ycombinator.com/rss
-needle,https://nodei.co/npm/needle/
 needle,https://server.com/posts/123
 needle,https://username:password
 needle,https://www.npmjs.org/package/needle
@@ -20861,8 +20813,6 @@ node-pre-gyp,https://www.npmjs.com/package/v8-profiler
 node-pre-gyp,https://your_bucket.s3-us-west-1.amazonaws.com
 node-pre-gyp,https://your_module.s3-us-west-1.amazonaws.com
 node-sass,http://andrew.github.com
-node-sass,http://badge.fury.io/js/node-sass
-node-sass,http://duojs.org/
 node-sass,https://david-dm.org/sass/node-sass
 node-sass,https://david-dm.org/sass/node-sass.svg?theme=shields.io
 node-sass,https://david-dm.org/sass/node-sass/dev-status.svg?theme=shields.io
@@ -20947,7 +20897,6 @@ node-static,http://0.0.0.0:8080
 node-static,http://github.com/cloudhead/node-static
 node-static,https://github.com/cloudhead/node-static
 node-static,https://github.com/cloudhead/node-static/issues
-node-uuid,http://github.com/broofa/node-uuid
 node-uuid,https://github.com/broofa/node-uuid
 node-uuid,https://github.com/broofa/node-uuid.git
 node-uuid,https://github.com/broofa/node-uuid/issues
@@ -20968,7 +20917,6 @@ node-watch,https://registry.npmjs.org/node-watch/-/node-watch-0.1.0.tgz
 node-watch,https://www.npmjs.com/package/minimatch
 node-watch,https://www.npmjs.com/package/picomatch
 node.extend,http://www.jon-carlos.com/2013/is-javascript-call-by-value-or-call-by-reference/
-node.extend,https://ci.testling.com/dreamerslab/node.extend.png
 node.extend,https://david-dm.org/dreamerslab/node.extend
 node.extend,https://david-dm.org/dreamerslab/node.extend.svg
 node.extend,https://david-dm.org/dreamerslab/node.extend/dev-status.svg
@@ -21166,7 +21114,6 @@ npm,https://npm.community/c/bugs
 npm,https://npm.community/t/installing-upgrading-npm/251/2
 npm,https://npm.im/npm
 npm,https://npmjs.org/doc/
-npm,https://www.npmjs.com/policies/terms
 npm-2,http://github.com/npm/npm/issues
 npm-2,https://docs.npmjs.com/misc/faq
 npm-2,https://github.com/npm/npm
@@ -21204,7 +21151,6 @@ npmc,https://github.com/npm/npm.git
 npmc,https://github.com/npm/npm/issues
 npmc,https://npm.community/c/bugs
 npmc,https://npm.community/t/installing-upgrading-npm/251/2
-npmc,https://www.npmjs.com/policies/terms
 npmlog,https://github.com/isaacs/npmlog
 npmlog,https://github.com/isaacs/npmlog/issues
 npmlog,https://github.com/npm/npmlog
@@ -21345,7 +21291,6 @@ object-hash,https://github.com/puleos/object-hash/issues
 object-hash,https://github.com/puleos/object-hash/issues/30
 object-hash,https://www.npmjs.com/package/object-hash
 object-keys,http://ljharb.codes
-object-keys,https://ci.testling.com/ljharb/object-keys.png
 object-keys,https://david-dm.org/ljharb/object-keys
 object-keys,https://david-dm.org/ljharb/object-keys.svg
 object-keys,https://david-dm.org/ljharb/object-keys/dev-status.svg
@@ -21356,7 +21301,6 @@ object-keys,https://github.com/ljharb/object-keys
 object-keys,https://github.com/ljharb/object-keys/issues
 object-keys,https://github.com/lodash/lodash
 object-keys,https://npmjs.org/package/object-keys
-object-path,http://badge.fury.io/js/object-path
 object-path,https://david-dm.org/mariocasciaro/object-path
 object-path,https://david-dm.org/mariocasciaro/object-path/dev-status.svg
 object-path,https://github.com/mariocasciaro
@@ -21948,7 +21892,6 @@ pawjs,https://opencollective.com/react-pwa/sponsor/7/website
 pawjs,https://opencollective.com/react-pwa/sponsor/8/website
 pawjs,https://opencollective.com/react-pwa/sponsor/9/website
 pawjs,https://snyk.io/test/github/atyantik/react-pwa
-pawjs,https://snyk.io/test/github/atyantik/react-pwa/badge.svg
 pawjs,https://www.atyantik.com/wp-content/uploads/2017/10/Browser-Stack-Logo.png
 pawjs,https://www.atyantik.com/wp-content/uploads/2017/10/PWA-States.png
 pawjs,https://www.eventerprise.com
@@ -22007,7 +21950,6 @@ performance-now,https://github.com/braveg1rl/performance-now
 performance-now,https://github.com/braveg1rl/performance-now/issues
 performance-now,https://github.com/meryn/performance-now
 performance-now,https://github.com/meryn/performance-now/issues
-pg,http://github.com/brianc/node-postgres
 pg,http://registry.npmjs.org/pg/-/pg-0.5.0-0.4-linux-2.6.38.3-linode32.tgz
 pg,http://registry.npmjs.org/pg/-/pg-0.5.4-0.4-ares1.7.4-ev4.4-openssl0.9.8o-v83.1.8.16-darwin-11.0.0.tgz
 pg,http://registry.npmjs.org/pg/-/pg-0.5.5-0.4-ares1.7.4-ev4.4-openssl0.9.8o-v83.1.8.10-linux-2.6.38-10-generic.tgz
@@ -22098,7 +22040,6 @@ pinkie-promise,https://github.com/floatdrop/pinkie-promise.git
 pinkie-promise,https://github.com/floatdrop/pinkie-promise/issues
 pinkie-promise,https://github.com/sindresorhus/pify
 pino,http://definitelytyped.org/badges/standard.svg
-pino,http://npm.im/loglevel
 pino,https://github.com/davidmarkclements
 pino,https://github.com/jsumners
 pino,https://github.com/mcollina/pino
@@ -22157,6 +22098,7 @@ plist,https://github.com/TooTallNate/node-plist
 plist,https://github.com/TooTallNate/node-plist/issues
 plist,https://github.com/TooTallNate/plist.js/actions/workflows/ci.yml
 plist,https://github.com/TooTallNate/plist.js/actions/workflows/ci.yml/badge.svg
+plist,https://registry.npmjs.org/plist/-/plist-3.0.1.tgz
 plugin-error,https://github.com/gulpjs/plugin-error
 plugin-error,https://github.com/gulpjs/plugin-error.git
 plugin-error,https://github.com/gulpjs/plugin-error/actions?query=workflow:dev
@@ -22180,7 +22122,7 @@ pm2,https://github.com/Unitech/pm2
 pm2,https://github.com/Unitech/pm2/issues
 pm2,https://github.com/nvm-sh/nvm
 pm2,https://keymetrics.io
-pngjs,http://badge.fury.io/js/pngjs
+pm2,https://registry.npmjs.org/pm2/-/pm2-0.14.0.tgz
 pngjs,https://github.com/lukeapage/pngjs
 pngjs,https://github.com/lukeapage/pngjs/issues
 pngjs,https://github.com/lukeapage/pngjs2/issues
@@ -22372,7 +22314,6 @@ postcss-preset-env,https://github.com/postcss/postcss-media-minmax
 postcss-preset-env,https://github.com/postcss/postcss-mixins
 postcss-preset-env,https://opencollective.com/csstools
 postcss-preset-env,https://www.npmjs.com/package/postcss-preset-env
-postcss-pxtorem,http://badge.fury.io/js/postcss-pxtorem
 postcss-pxtorem,https://github.com/ai/postcss
 postcss-pxtorem,https://github.com/cuth/postcss-pxtorem
 postcss-pxtorem,https://github.com/cuth/postcss-pxtorem/issues
@@ -23005,7 +22946,6 @@ qd-clis,https://github.com/nwa2018/qd-cli
 qd-clis,https://github.com/nwa2018/qd-cli/issues
 qs,http://github.com/hapijs/qs/raw/master/LICENSE
 qs,http://ljharb.codes
-qs,https://ci.testling.com/ljharb/qs.png
 qs,https://david-dm.org/ljharb/qs
 qs,https://david-dm.org/ljharb/qs.svg
 qs,https://david-dm.org/ljharb/qs/dev-status.svg
@@ -23349,7 +23289,6 @@ react-base-starter-project,https://github.com/mzamoras/rbc
 react-base-starter-project,https://github.com/mzamoras/rbc.git
 react-base-starter-project,https://github.com/mzamoras/rbc/issues
 react-basis,https://bitbucket.org/mitka/isomorphic-reactjs
-react-bootstrap,http://badge.fury.io/js/react-bootstrap
 react-bootstrap,http://start.thinkful.com/react/?utm_source=github
 react-bootstrap,https://github.com/Hermanya/awesome-react-bootstrap-components
 react-bootstrap,https://github.com/rbalicki2/react-bootstrap-extended
@@ -24343,6 +24282,7 @@ react-virtualized,https://opencollective.com/react-virtualized/sponsor/26/websit
 react-virtualized,https://opencollective.com/react-virtualized/sponsor/27/website
 react-virtualized,https://opencollective.com/react-virtualized/sponsor/28/website
 react-virtualized,https://opencollective.com/react-virtualized/sponsor/29/website
+react-virtualized,https://rawgit.com/bvaughn/react-virtualized/master/playground/tree.html
 react-virtualized,https://www.npmjs.com/package/react
 react-virtualized,https://www.npmjs.com/package/react-dom
 react-virtualized,https://www.npmjs.com/package/react-virtualized
@@ -24889,6 +24829,7 @@ redux-actions,https://github.com/redux-utilities/redux-actions.git
 redux-actions,https://github.com/redux-utilities/redux-actions/graphs/contributors
 redux-actions,https://github.com/redux-utilities/redux-actions/issues
 redux-actions,https://www.npmjs.com/package/redux-actions
+redux-actions,https://www.npmjs.com/search?q=redux
 redux-devtools,http://github.com/gaearon
 redux-devtools,https://github.com/YoruNoHikage/redux-devtools-dispatch
 redux-devtools,https://github.com/aholachek/redux-usage-report
@@ -25275,7 +25216,6 @@ require-all,https://github.com/felixge/node-require-all.git
 require-all,https://github.com/felixge/node-require-all/blob/master/License
 require-all,https://github.com/felixge/node-require-all/issues
 require-all,https://npmjs.org/package/require-all
-require-dir,http://badge.fury.io/js/require-dir
 require-dir,https://github.com/JamesEggers1/node-requiredir
 require-dir,https://github.com/aseemk/requireDir
 require-dir,https://github.com/aseemk/requireDir/issues
@@ -25805,6 +25745,7 @@ saas-plat-native,https://github.com/saas-plat/saas-plat-native.git
 saas-plat-native,https://github.com/saas-plat/saas-plat-native/issues
 sabium-framework,http://gitlab.sabium.info/tools/sabium-framework.git
 sabium-framework,https://github.com/youraccount/angular-amazing.git
+sabium-framework,https://registry.npmjs.org/sabium-framework/-/sabium-framework-3.0.7-rc.61.tgz
 safe-buffer,https://github.com/evilpacket
 safe-buffer,https://github.com/feross/bittorrent-dht/commit/6c7da04025d5633699800a99ec3fbadf70ad35b8
 safe-buffer,https://github.com/feross/safe-buffer
@@ -25992,7 +25933,6 @@ schejulekue,https://github.com/mranney/node_redis
 schejulekue,https://github.com/ortoo/node-redis-sentinel
 schejulekue,https://github.com/phillipburch/kue.git
 schejulekue,https://github.com/phillipburch/kue/issues
-schejulekue,https://nodei.co/npm/kue/
 schejulekue,https://waffle.io/learnboost/kue
 schema-utils,https://david-dm.org/webpack/schema-utils
 schema-utils,https://david-dm.org/webpack/schema-utils.svg
@@ -26082,8 +26022,6 @@ secp256k1,https://github.com/phpb-com
 secp256k1,https://github.com/wanderer/secp256k1-node
 secp256k1,https://github.com/wanderer/secp256k1-node.git
 secp256k1,https://github.com/wanderer/secp256k1-node/issues
-selenium-webdriver,https://code.google.com/p/selenium/
-selenium-webdriver,https://code.google.com/p/selenium/issues/list
 selenium-webdriver,https://github.com/SeleniumHQ/selenium
 selenium-webdriver,https://github.com/SeleniumHQ/selenium.git
 selenium-webdriver,https://github.com/SeleniumHQ/selenium/
@@ -26262,7 +26200,6 @@ serialport,https://github.com/voodootikigod/node-serialport/releases/download/3.
 serialport,https://github.com/voodootikigod/node-serialport/releases/download/3.2.0-beta1
 serialport,https://github.com/voodootikigod/node-serialport/releases/download/4.0.0-beta1
 serialport,https://opencollective.com/serialport/donate
-serialport,https://registry.npmjs.org/serialport/-/serialport-9.2.3.tgz
 serialport,https://serialport.io/docs/api-bindings
 serialport,https://serialport.io/docs/api-bindings-abstract
 serialport,https://serialport.io/docs/en/api-serialport
@@ -26359,7 +26296,6 @@ shallowequal,https://github.com/dashed/shallowequal
 shallowequal,https://github.com/dashed/shallowequal.git
 shallowequal,https://github.com/dashed/shallowequal/issues
 shallowequal,https://github.com/gaearon/react-pure-render/
-shallowequal,https://lodash.com/docs/3.10.1
 shallowequal,https://npmjs.com/shallowequal
 shallowequal,https://www.npmjs.com/package/shallowequal
 shaocongwang,https://github.com/felixrieseberg/npm-windows-upgrade
@@ -26367,7 +26303,6 @@ shaocongwang,https://github.com/npm/cli
 shaocongwang,https://github.com/npm/cli.git
 shaocongwang,https://npm.community/c/bugs
 shaocongwang,https://npm.community/t/installing-upgrading-npm/251/2
-shaocongwang,https://www.npmjs.com/policies/terms
 sharp,https://cdn.jsdelivr.net/gh/lovell/sharp
 sharp,https://github.com/libvips/libvips
 sharp,https://github.com/lovell/sharp
@@ -26786,6 +26721,7 @@ socket.io,https://github.com/socketio/socket.io/issues
 socket.io,https://github.com/socketio/socket.io/workflows/CI/badge.svg
 socket.io,https://github.com/visionmedia/debug
 socket.io,https://opencollective.com/socketio
+socket.io,https://opencollective.com/socketio/backer/1/website
 socket.io,https://opencollective.com/socketio/backer/20/website
 socket.io,https://opencollective.com/socketio/backer/29/website
 socket.io,https://opencollective.com/socketio/backer/4/website
@@ -26948,7 +26884,6 @@ spoc,https://opencollective.com/react-pwa/sponsor/7/website
 spoc,https://opencollective.com/react-pwa/sponsor/8/website
 spoc,https://opencollective.com/react-pwa/sponsor/9/website
 spoc,https://snyk.io/test/github/atyantik/react-pwa
-spoc,https://snyk.io/test/github/atyantik/react-pwa/badge.svg
 spoc,https://www.atyantik.com/wp-content/uploads/2017/10/Browser-Stack-Logo.png
 spoc,https://www.atyantik.com/wp-content/uploads/2017/10/PWA-States.png
 spoc,https://www.eventerprise.com
@@ -27503,7 +27438,6 @@ string,https://github.com/yumitsu
 string-template,http://github.com/Matt-Esch/string-template/raw/master/LICENSE
 string-template,http://github.com/hughsk/stability-badges
 string-template,https://badge.fury.io/js/string-template
-string-template,https://ci.testling.com/Matt-Esch/string-template.png
 string-template,https://david-dm.org/Matt-Esch/string-template
 string-template,https://david-dm.org/Matt-Esch/string-template.png
 string-template,https://gemnasium.com/Matt-Esch/string-template
@@ -28176,7 +28110,6 @@ tanngo,https://github.com/tanngo/TestPlugin.git
 tanngo,https://github.com/tanngo/TestPlugin/issues
 tapable,https://github.com/webpack/tapable
 tapable,https://github.com/webpack/tapable/issues
-tape,https://ci.testling.com/substack/tape.png
 tape,https://david-dm.org/ljharb/tape
 tape,https://david-dm.org/ljharb/tape.svg
 tape,https://david-dm.org/ljharb/tape/dev-status.svg
@@ -28232,7 +28165,6 @@ tape,https://www.npmjs.com/package/coffeetape
 tape,https://www.npmjs.com/package/glob
 tape,https://www.npmjs.com/package/tape-promise
 tape,https://www.npmjs.org/package/tap-pessimist
-tar,http://npm.im/minipass
 tar,https://github.com/isaacs/node-tar
 tar,https://github.com/isaacs/node-tar/issues
 tar,https://github.com/npm/node-tar
@@ -28274,7 +28206,6 @@ tars-cli,https://npmjs.org/package/tars-cli
 tchin-react-components,https://github.com/maxijonson/tchin-react-components
 tchin-react-components,https://github.com/maxijonson/tchin-react-components.git
 tchin-react-components,https://github.com/maxijonson/tchin-react-components/issues
-temp,http://github.com/bruce/node-temp
 temp,http://github.com/bruce/node-temp/issues
 temp,http://github.com/isaacs/npm
 temp,https://github.com/bruce/node-temp
@@ -28415,7 +28346,6 @@ throttle-debounce,https://github.com/niksy/throttle-debounce/workflows/CI/badge.
 throttle-debounce,https://github.com/parro-it/awesome-micro-npm-packages
 through,http://github.com/dominictarr/event-stream
 through,http://github.com/dominictarr/through
-through,https://ci.testling.com/dominictarr/through.png
 through,https://github.com/dominictarr/through
 through,https://github.com/dominictarr/through.git
 through,https://github.com/dominictarr/through/issues
@@ -28599,7 +28529,6 @@ travelchain-beta-ui,https://github.com/vuejs/vue-router
 travelchain-beta-ui,https://github.com/vuejs/vuex
 travelchain-beta-ui,https://github.com/webpack/webpack
 travelchain-beta-ui,https://github.com/winstonjs/winston
-travelchain-beta-ui,https://snyk.io/test/github/icebob/vue-express-mongo-boilerplate
 travelchain-beta-ui,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/GitHub_logo_2013_padded.svg/128px-GitHub_logo_2013_padded.svg.png
 travelchain-beta-ui,https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/527px-MongoDB-Logo.svg.png
 travelchain-beta-ui,https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/64px-Twitter_bird_logo_2012.svg.png
@@ -29015,7 +28944,6 @@ type-is,https://github.com/jshttp/type-is.git
 type-is,https://github.com/jshttp/type-is/issues
 type-is,https://npmjs.org/package/type-is
 typedarray,http://wzrd.in/standalone/typedarray
-typedarray,https://ci.testling.com/substack/typedarray
 typedarray,https://ci.testling.com/substack/typedarray.png
 typedarray,https://github.com/substack/typedarray
 typedarray,https://github.com/substack/typedarray/issues
@@ -29061,6 +28989,7 @@ typeorm,https://github.com/typeorm/typescript-example
 typeorm,https://github.com/typeorm/typescript-express-example
 typeorm,https://github.com/typeorm/typescript-koa-example
 typeorm,https://opencollective.com/typeorm
+typeorm,https://registry.npmjs.org/typeorm/-/typeorm-0.2.35.tgz
 typeorm,https://www.npmjs.com/package/erdia/
 typeorm,https://www.npmjs.com/package/typeorm-codebase-sync
 typescript,http://typescript.codeplex.com/license
@@ -29350,6 +29279,7 @@ update-notifier,https://github.com/yeoman/update-notifier
 update-notifier,https://github.com/yeoman/update-notifier.git
 update-notifier,https://github.com/yeoman/update-notifier/issues
 update-notifier,https://github.com/yeoman/update-notifier?sponsor=1
+update-notifier,https://www.npmjs.org/browse/depended/update-notifier
 upper-case,https://github.com/blakeembrey/change-case
 upper-case,https://github.com/blakeembrey/change-case/issues
 upper-case,https://github.com/blakeembrey/change-case/tree/master/packages/upper-case
@@ -29540,7 +29470,6 @@ utils-merge,https://img.shields.io/codeclimate/github/jaredhanson/utils-merge.sv
 utils-merge,https://www.npmjs.com/package/utils-merge
 uuid,http://bitbucket.org/nikhilm/uuidjs
 uuid,http://example.com/hello
-uuid,http://github.com/broofa/node-uuid
 uuid,http://registry.npmjs.org/uuid/-/uuid-0.0.2-0.4-sunos-5.11.tgz
 uuid,https://github.com/LinusU/react-native-get-random-values
 uuid,https://github.com/broofa/node-uuid.git
@@ -29773,7 +29702,6 @@ vc-tools,https://github.com/vueComponent/tools
 vc-tools,https://github.com/vueComponent/tools/issues
 vc-tools,https://github.com/vuejs/eslint-plugin-vue-libs
 vc-tools,https://npmjs.org/package/vc-tools
-vchat,http://github.danielcardoso.net/load-awesome/
 vchat,https://github.com/airportyh/testem/
 vchat,https://github.com/brzpegasus/ember-cli-node-webkit
 vchat,https://github.com/brzpegasus/ember-cli-node-webkit/
@@ -29811,7 +29739,6 @@ verb,https://github.com/verbose/verb
 verb,https://github.com/verbose/verb-cli
 verb,https://github.com/verbose/verb/issues
 verb,https://github.com/verbose/verb/issues/new
-verb,https://www.npmjs.com/package/assemble
 verb,https://www.npmjs.com/package/composer
 verb,https://www.npmjs.com/package/engine
 verb,https://www.npmjs.com/package/is-glob
@@ -30013,7 +29940,6 @@ vue-express-mongo-boilerplate,https://github.com/vuejs/vuex
 vue-express-mongo-boilerplate,https://github.com/webpack/webpack
 vue-express-mongo-boilerplate,https://github.com/winstonjs/winston
 vue-express-mongo-boilerplate,https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Logo.png
-vue-express-mongo-boilerplate,https://snyk.io/test/github/icebob/vue-express-mongo-boilerplate
 vue-express-mongo-boilerplate,https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/527px-MongoDB-Logo.svg.png
 vue-hot-reload-api,https://github.com/vuejs/vue-hot-reload-api
 vue-hot-reload-api,https://github.com/vuejs/vue-hot-reload-api.git
@@ -30501,6 +30427,11 @@ webpack,https://opencollective.com/webpack/goldsponsor/0/website?requireActive=f
 webpack,https://opencollective.com/webpack/goldsponsor/22/website?requireActive=false
 webpack,https://opencollective.com/webpack/goldsponsor/29/website?requireActive=false
 webpack,https://opencollective.com/webpack/silversponsor/0/website?requireActive=false
+webpack,https://opencollective.com/webpack/silversponsor/10/website?requireActive=false
+webpack,https://opencollective.com/webpack/silversponsor/11/website?requireActive=false
+webpack,https://opencollective.com/webpack/silversponsor/15/avatar.svg?requireActive=false
+webpack,https://opencollective.com/webpack/silversponsor/17/avatar.svg?requireActive=false
+webpack,https://opencollective.com/webpack/silversponsor/18/website?requireActive=false
 webpack,https://opencollective.com/webpack/silversponsor/22/website?requireActive=false
 webpack,https://opencollective.com/webpack/silversponsor/29/website?requireActive=false
 webpack,https://opencollective.com/webpack/sponsor/0/website?requireActive=false
@@ -30713,6 +30644,7 @@ webpack-visualizer-plugin,https://github.com/chrisbateman/webpack-visualizer/iss
 webpackbar,https://circleci.com/gh/nuxt/webpackbar
 webpackbar,https://david-dm.org/nuxt/webpackbar
 webpackbar,https://david-dm.org/nuxt/webpackbar.svg?style=flat-square
+webpackbar,https://flat.badgen.net/badge/code%20style/standard/green
 webpackbar,https://flat.badgen.net/github/checks/nuxt-contrib/webpackbar/master
 webpackbar,https://github.com/nuxt-contrib/webpackbar
 webpackbar,https://github.com/nuxt-contrib/webpackbar.git
@@ -30989,7 +30921,7 @@ xapiwrapper,http://adlnet.gov/expapi/activities/question
 xapiwrapper,http://adlnet.gov/expapi/activities/question/1
 xapiwrapper,http://adlnet.gov/expapi/activities/question/2
 xapiwrapper,http://adlnet.gov/expapi/attachments/signature
-xapiwrapper,https://code.google.com/p/crypto-js/downloads/detail?name=2.5.3-crypto-sha1.js
+xapiwrapper,https://code.google.com/p/javascriptbase64/downloads/list
 xapiwrapper,https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md
 xapiwrapper,https://github.com/adlnet/xAPIVerbs
 xapiwrapper,https://github.com/adlnet/xAPIWrapper
@@ -31086,6 +31018,7 @@ xml-js,https://www.npmjs.com/package/xml-js
 xml2js,http://cartercole.com/
 xml2js,http://codesleuth.co.uk/
 xml2js,http://leoreavidar.com/
+xml2js,http://weibo.com/shyvo
 xml2js,http://www.bitstorm.it/
 xml2js,http://zacharyscott.net/
 xml2js,https://david-dm.org/Leonidas-from-XIV/node-xml2js
@@ -31132,6 +31065,7 @@ xmlbuilder,https://github.com/oozcitak/xmlbuilder-js/wiki
 xmlbuilder,https://github.com/oozcitak/xmlbuilder-js/wiki/Examples
 xmlbuilder,https://github.com/oozcitak/xmlbuilder2
 xmlbuilder,https://npmjs.com/package/xmlbuilder
+xmldom,http://code.google.com/p/lite/issues/list
 xmldom,http://github.com/jindw/xmldom/issues
 xmldom,http://github.com/xmldom/xmldom/issues
 xmldom,http://lite.googlecode.com/svn/trunk/Lite/web/scripts/org/xidea/lite/util/xml
@@ -31314,7 +31248,6 @@ yeoman-generator,https://github.com/yeoman/generator
 yeoman-generator,https://github.com/yeoman/generator-generator
 yeoman-generator,https://github.com/yeoman/generator.git
 yeoman-generator,https://github.com/yeoman/generator/issues
-yeoman-generator,https://opencollective.com/yeoman
 yeoman-generator,https://opencollective.com/yeoman/backers/1/website
 yeoman-generator,https://opencollective.com/yeoman/backers/10/website
 yeoman-generator,https://opencollective.com/yeoman/backers/11/website
