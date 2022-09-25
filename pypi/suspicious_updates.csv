@@ -3,8 +3,7 @@ adafruit-circuitpython-busdevice,2022-08-26,2022-08-23
 adafruit-circuitpython-typing,2022-08-26,2022-08-24
 albumentations,2022-09-20,2022-09-19
 arrow,2022-09-03,2022-08-31
-authlib,2022-09-13,2022-09-09
-autogluon-core,2022-09-24,2022-09-23
+autogluon-core,2022-09-25,2022-09-23
 aws-secretsmanager-caching,2021-03-11,2021-03-10
 awswrangler,2022-09-22,2022-09-21
 bbcode,2019-12-31,2019-12-27
@@ -130,6 +129,7 @@ pyobjc-framework-modelio,2022-09-18,2022-09-15
 pyobjc-framework-multipeerconnectivity,2022-09-18,2022-09-15
 pyobjc-framework-naturallanguage,2022-09-18,2022-09-15
 pyobjc-framework-netfs,2022-09-18,2022-09-15
+pyobjc-framework-network,2022-09-18,2022-09-15
 pyobjc-framework-networkextension,2022-09-18,2022-09-15
 pyobjc-framework-notificationcenter,2022-09-18,2022-09-15
 pyobjc-framework-opendirectory,2022-09-18,2022-09-15
@@ -146,6 +146,7 @@ pyobjc-framework-searchkit,2022-09-18,2022-09-15
 pyobjc-framework-security,2022-09-18,2022-09-15
 pyobjc-framework-securityfoundation,2022-09-18,2022-09-15
 pyobjc-framework-securityinterface,2022-09-18,2022-09-15
+pyobjc-framework-servicemanagement,2022-09-18,2022-09-15
 pyobjc-framework-social,2022-09-18,2022-09-15
 pyobjc-framework-spritekit,2022-09-18,2022-09-15
 pyobjc-framework-storekit,2022-09-18,2022-09-15
@@ -167,7 +168,7 @@ quantile-python,2015-02-11,2013-09-21
 rauth,2017-01-22,2015-11-05
 requests-ntlm,2017-10-18,2017-09-19
 resize-right,2022-05-05,2021-12-08
-resnest,2022-09-23,2021-05-18
+resnest,2022-09-24,2021-05-18
 scikit-learn-intelex,2022-09-21,2022-09-19
 spacy-alignments,2022-04-06,2022-04-05
 sparkdl,2018-05-16,2017-09-15
@@ -176,7 +177,6 @@ stdlib-list,2020-11-19,2020-11-18
 stepfunctions,2022-01-24,2022-01-21
 strenum,2022-06-22,2021-10-14
 sweetviz,2022-06-14,2022-06-08
-tabula-py,2022-08-23,2022-08-18
 tensorflow-io-gcs-filesystem,2022-09-08,2022-09-07
 textfsm,2022-07-13,2022-07-06
 unidic-lite,2021-01-25,2020-09-01
