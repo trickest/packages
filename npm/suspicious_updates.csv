@@ -9,7 +9,7 @@ package,package_update,repository_update
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
-@capacitor/core,2022-09-23,2022-09-21
+@capacitor/core,2022-09-26,2022-09-21
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -50,9 +50,8 @@ package,package_update,repository_update
 @newsteam/brick,2022-07-11,2019-06-13
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
-@oclif/config,2022-06-12,2022-04-02
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-09-23,2022-08-26
+@omnia/fx,2022-09-26,2022-08-26
 @pawjs/pawjs,2022-09-24,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -116,7 +115,7 @@ array-back,2022-06-13,2022-01-14
 array-flatten,2022-06-13,2021-10-10
 array-uniq,2022-06-13,2021-05-03
 arrify,2022-06-13,2021-11-09
-arui-scripts,2022-09-21,2022-03-30
+arui-scripts,2022-09-26,2022-03-30
 asap,2022-06-13,2022-01-05
 asn1,2022-06-13,2022-03-09
 assert,2022-06-13,2019-09-24
@@ -135,7 +134,6 @@ awesome-lint,2022-06-13,2021-11-30
 awesome-typescript-loader,2022-06-13,2018-11-08
 aws-sign2,2022-06-13,2017-04-12
 aws4,2022-06-13,2020-10-31
-axios,2022-09-25,2022-09-15
 axios-retry-ano,2022-04-11,2018-03-27
 axis-react-scripts,2022-04-11,2020-07-09
 azure-cli,2022-06-13,2021-04-19
@@ -318,6 +316,7 @@ d3-selection,2022-06-14,2021-06-07
 dargs,2022-06-14,2021-06-30
 dateformat,2022-06-14,2022-02-19
 davanmonet,2022-04-28,2022-01-17
+dayjs,2022-09-26,2022-08-30
 dd-rn-packager,2022-06-14,2017-08-03
 debounce,2022-06-14,2021-03-09
 debug,2022-08-09,2022-03-31
@@ -340,6 +339,7 @@ detect-conflict,2022-06-15,2018-05-19
 detect-libc,2022-06-15,2022-02-14
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
+discord.js,2022-09-26,2022-09-25
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -605,6 +605,7 @@ intl,2022-06-19,2020-05-11
 invariant,2022-06-19,2021-04-13
 ip,2022-06-19,2022-05-10
 ipaddr.js,2022-06-19,2022-03-18
+ipfs,2022-09-26,2022-09-23
 is,2022-06-19,2021-12-06
 is-arguments,2022-06-19,2021-12-08
 is-buffer,2022-06-19,2020-11-03
@@ -962,7 +963,6 @@ react-lifecycles-compat,2022-05-14,2019-07-19
 react-loadable,2022-06-26,2020-03-03
 react-markdown,2022-06-26,2022-06-05
 react-motion,2022-06-26,2019-11-17
-react-native,2022-09-25,2022-09-24
 react-native-ok-sdk,2022-06-26,2017-07-19
 react-native-plus,2022-06-26,2017-04-13
 react-native-vector-icons,2022-06-26,2022-06-24
