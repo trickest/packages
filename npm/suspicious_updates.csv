@@ -9,7 +9,7 @@ package,package_update,repository_update
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
-@capacitor/core,2022-09-26,2022-09-21
+@capacitor/core,2022-09-27,2022-09-21
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -51,7 +51,7 @@ package,package_update,repository_update
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-09-26,2022-08-26
+@omnia/fx,2022-09-27,2022-08-26
 @pawjs/pawjs,2022-09-24,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -68,6 +68,7 @@ package,package_update,repository_update
 @southcn/ckeditor5-build-inline,2022-04-07,2020-05-01
 @split-demo/shared-build-deps,2022-04-07,2018-10-15
 @stoplight/react-static,2022-06-13,2022-04-29
+@tarojs/cli,2022-09-27,2022-09-23
 @treshugart/nwb,2022-06-13,2021-04-30
 @ubiquits/toolchain,2022-06-13,2016-11-29
 @unaussprechlich/keystone,2022-04-07,2021-02-03
@@ -88,7 +89,6 @@ advanced-boilerplate,2022-06-13,2017-10-24
 aegis-tools,2022-06-13,2016-12-15
 agentkeepalive,2022-06-13,2022-02-21
 agneta-platform,2022-06-13,2018-10-27
-ajv,2022-06-13,2022-05-13
 ajv-keywords,2022-06-13,2022-01-15
 akpack,2022-06-13,2016-10-10
 alfy,2022-06-13,2022-04-18
@@ -339,7 +339,7 @@ detect-conflict,2022-06-15,2018-05-19
 detect-libc,2022-06-15,2022-02-14
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
-discord.js,2022-09-26,2022-09-25
+discord.js,2022-09-27,2022-09-25
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -378,7 +378,7 @@ engine.io,2022-06-17,2022-06-06
 ensemblejs,2022-06-17,2017-06-15
 ensure-posix-path,2022-06-17,2019-02-04
 envify,2022-06-17,2017-07-07
-envinfo,2022-06-17,2022-04-21
+envinfo,2022-09-27,2022-04-21
 enzyme,2022-06-17,2021-09-17
 enzyme-adapter-react-16,2022-06-17,2021-09-17
 enzyme-to-json,2022-06-17,2021-04-08
@@ -490,7 +490,6 @@ global,2022-06-18,2019-06-10
 globby,2022-06-18,2022-06-12
 gp-boilerplate-environment,2022-06-18,2018-07-15
 graceful-fs,2022-06-18,2022-04-04
-graphql,2022-09-22,2022-09-21
 gray-matter,2022-06-18,2021-04-24
 gript,2022-06-18,2017-10-31
 grumbler-scripts,2022-06-18,2022-04-11
@@ -648,7 +647,7 @@ jsonfile,2022-06-19,2021-09-23
 jsonparse,2022-06-19,2020-04-27
 jsonschema,2022-06-19,2022-05-17
 jsonwebtoken,2022-06-19,2021-03-31
-jsprim,2022-06-19,2021-11-17
+jsprim,2022-09-27,2021-11-17
 jszip,2022-09-05,2022-08-02
 jujin-dv,2022-05-07,2019-10-13
 jw-components-mobile,2022-06-19,2017-05-30
@@ -737,7 +736,6 @@ md5-file,2022-06-19,2020-04-08
 media-typer,2022-06-19,2021-04-06
 memoize-one,2022-06-19,2021-10-27
 memory-fs,2022-06-19,2019-10-08
-meow,2022-08-09,2022-06-21
 merge,2022-06-19,2021-02-22
 merge-descriptors,2022-06-19,2019-01-11
 merge-stream,2022-06-19,2019-06-19
@@ -851,7 +849,7 @@ open-browser-webpack-plugin,2022-06-22,2019-07-09
 opener,2022-06-22,2020-08-29
 optimize-css-assets-webpack-plugin,2022-06-23,2021-06-23
 optionator,2022-06-23,2021-06-11
-ora,2022-09-10,2022-07-26
+ora,2022-09-27,2022-07-26
 origami-build-tools,2022-06-23,2021-11-19
 os,2022-06-23,2021-07-13
 os-homedir,2022-06-23,2019-05-31
@@ -947,7 +945,6 @@ rc,2022-09-15,2018-05-26
 rc-tools,2022-06-25,2020-03-12
 rc_ghost,2022-05-14,2019-06-13
 rclib-tools,2022-05-14,2018-03-20
-react,2022-09-25,2022-09-24
 react-angular-component,2022-05-14,2018-05-08
 react-apollo,2022-06-25,2020-07-20
 react-base-starter-project,2022-06-25,2019-01-06
@@ -955,7 +952,6 @@ react-color,2022-06-25,2020-11-17
 react-dnd,2022-06-25,2022-04-20
 react-dnd-html5-backend,2022-06-25,2022-04-20
 react-document-title,2022-06-25,2018-01-04
-react-dom,2022-09-25,2022-09-24
 react-dom-chunky,2022-06-25,2021-10-29
 react-helmet,2022-09-25,2020-06-30
 react-hot-loader,2022-06-25,2022-05-29
@@ -1080,7 +1076,6 @@ sindredash,2022-06-26,2015-12-21
 sinon-chai,2022-06-26,2022-04-29
 skylor.min-admin,2022-06-26,2017-12-27
 skypager-framework,2022-06-26,2021-07-19
-slash,2022-06-26,2021-04-14
 sliced,2022-06-26,2016-08-30
 slim-cli,2022-06-26,2018-06-05
 slugify,2022-09-04,2022-08-25
@@ -1120,6 +1115,7 @@ string-width,2022-06-27,2022-02-28
 string_decoder,2022-06-27,2019-08-07
 strip-ansi,2022-06-27,2021-09-11
 strip-bom,2022-06-27,2021-04-16
+styled-components,2022-09-27,2022-09-24
 svg-inline-loader,2022-06-27,2020-10-09
 svg-sprite-loader,2022-06-27,2021-10-24
 svgo,2022-06-27,2022-03-15
