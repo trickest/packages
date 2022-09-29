@@ -13,17 +13,13 @@ contours,2017-07-28,2017-07-27
 cpuset-py3,2020-12-01,2016-01-21
 crowdstrike-falconpy,2022-09-20,2022-09-16
 cvxopt,2022-03-08,2022-03-07
-databand,2022-09-23,2022-09-21
-dbnd,2022-09-23,2022-09-21
-dbnd-qubole,2022-09-23,2022-09-21
-dbnd-spark,2022-09-23,2022-09-21
+dbt-redshift,2022-09-28,2022-09-26
 dedupe,2022-01-21,2022-01-19
 django-admin-autocomplete-filter,2021-09-11,2021-09-09
 django-lifecycle,2022-05-29,2022-05-28
 django-q,2021-06-27,2021-06-26
 drf-jwt,2022-01-09,2022-01-08
 getmac,2022-06-01,2022-05-12
-google-cloud-profiler,2022-06-24,2022-06-23
 googledrivedownloader,2019-05-20,2019-02-09
 grandalf,2020-03-19,2020-03-17
 htmllistparse,2021-01-22,2021-01-07
@@ -44,7 +40,6 @@ lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
 mmdet,2022-09-26,2022-09-16
 msgpack-numpy,2022-06-09,2022-04-28
-mypy-boto3-ssm,2022-09-26,2022-09-24
 newrelic-telemetry-sdk,2022-07-11,2022-07-09
 pantab,2022-09-14,2021-04-07
 pep562,2021-05-21,2021-05-17
@@ -158,7 +153,6 @@ pyobjc-framework-videotoolbox,2022-09-18,2022-09-15
 pyobjc-framework-vision,2022-09-18,2022-09-15
 pyobjc-framework-webkit,2022-09-18,2022-09-15
 pyppmd,2022-07-30,2022-07-29
-pytest-testmon,2022-09-21,2022-09-09
 python-jsonrpc-server,2020-09-08,2020-09-07
 python-logstash,2022-03-30,2022-03-28
 python-monkey-business,2016-03-22,2016-03-19
@@ -167,7 +161,7 @@ quantile-python,2015-02-11,2013-09-21
 rauth,2017-01-22,2015-11-05
 requests-ntlm,2017-10-18,2017-09-19
 resize-right,2022-05-05,2021-12-08
-resnest,2022-09-26,2021-05-18
+resnest,2022-09-28,2021-05-18
 scikit-learn-intelex,2022-09-21,2022-09-19
 spacy-alignments,2022-04-06,2022-04-05
 sparkdl,2018-05-16,2017-09-15
@@ -181,5 +175,4 @@ tensorflow-io-gcs-filesystem,2022-09-08,2022-09-07
 textfsm,2022-07-13,2022-07-06
 unidic-lite,2021-01-25,2020-09-01
 virtualenv-clone,2021-09-07,2021-09-06
-watchfiles,2022-09-11,2022-09-10
 xmindparser,2021-07-23,2019-01-19
