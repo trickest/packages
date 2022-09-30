@@ -9,6 +9,7 @@ package,package_update,repository_update
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
+@capacitor/core,2022-09-29,2022-09-28
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -49,8 +50,9 @@ package,package_update,repository_update
 @newsteam/brick,2022-07-11,2019-06-13
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
+@octokit/rest,2022-09-29,2022-09-27
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-09-28,2022-08-26
+@omnia/fx,2022-09-29,2022-08-26
 @pawjs/pawjs,2022-09-24,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -69,7 +71,6 @@ package,package_update,repository_update
 @stoplight/react-static,2022-06-13,2022-04-29
 @storybook/core,2022-09-28,2022-09-27
 @storybook/react,2022-09-28,2022-09-27
-@tarojs/cli,2022-09-27,2022-09-23
 @treshugart/nwb,2022-06-13,2021-04-30
 @ubiquits/toolchain,2022-06-13,2016-11-29
 @unaussprechlich/keystone,2022-04-07,2021-02-03
@@ -101,7 +102,6 @@ angular-cli-koco,2022-06-13,2017-01-25
 ansi-colors,2022-06-13,2022-05-16
 ansi-html,2022-06-13,2022-03-01
 ansi-regex,2022-06-13,2021-10-28
-antd,2022-09-28,2022-09-27
 any-promise,2022-06-13,2016-07-28
 anymatch,2022-06-13,2021-05-14
 apc-youtube,2022-04-11,2018-07-25
@@ -117,7 +117,7 @@ array-back,2022-06-13,2022-01-14
 array-flatten,2022-06-13,2021-10-10
 array-uniq,2022-06-13,2021-05-03
 arrify,2022-06-13,2021-11-09
-arui-scripts,2022-09-26,2022-03-30
+arui-scripts,2022-09-29,2022-03-30
 asap,2022-06-13,2022-01-05
 asn1,2022-06-13,2022-03-09
 assert,2022-06-13,2019-09-24
@@ -340,7 +340,7 @@ detect-conflict,2022-06-15,2018-05-19
 detect-libc,2022-06-15,2022-02-14
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
-discord.js,2022-09-28,2022-09-25
+discord.js,2022-09-29,2022-09-25
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -371,7 +371,6 @@ elliptic,2022-06-16,2021-02-02
 embark,2022-06-16,2020-10-08
 ember-cli-babel,2022-06-16,2021-12-22
 ember-cli-version-checker,2022-06-16,2021-08-03
-emoji-regex,2022-06-17,2022-04-01
 encodeurl,2022-06-17,2019-01-01
 end-of-stream,2022-06-17,2020-12-08
 engine.io,2022-06-17,2022-06-06
@@ -636,7 +635,6 @@ jest-environment-jsdom-fourteen,2022-05-06,2020-11-02
 jest-pnp-resolver,2022-05-06,2020-06-24
 jm-intlnext,2022-05-06,2018-07-25
 jnwb,2022-05-06,2021-04-30
-joi,2022-09-28,2022-09-22
 js-base64,2022-09-20,2022-07-23
 js-tokens,2022-06-19,2022-05-15
 jsesc,2022-06-19,2020-10-28
@@ -808,7 +806,6 @@ node-static,2022-06-21,2022-03-09
 node-uuid,2022-06-30,2020-01-16
 node.extend,2022-06-21,2022-05-16
 nodecg,2022-06-22,2022-03-30
-nodegit,2022-06-22,2022-06-20
 nodemon,2022-09-25,2022-09-16
 nomnom,2022-06-22,2015-09-09
 normalize-path,2022-06-22,2018-11-07
@@ -864,7 +861,7 @@ pako,2022-06-23,2022-06-10
 palo-express,2022-06-23,2016-01-31
 pangea,2022-06-23,2017-03-19
 parse-json,2022-06-23,2022-01-06
-parseurl,2022-06-23,2021-12-18
+parseurl,2022-06-23,2022-03-30
 passbolt-mad,2022-06-23,2021-01-28
 passport,2022-06-23,2022-05-22
 passport-local,2022-08-26,2021-06-29
