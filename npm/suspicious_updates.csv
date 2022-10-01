@@ -9,7 +9,7 @@ package,package_update,repository_update
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
-@capacitor/core,2022-09-29,2022-09-28
+@capacitor/core,2022-09-30,2022-09-28
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -52,7 +52,7 @@ package,package_update,repository_update
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
 @octokit/rest,2022-09-29,2022-09-27
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-09-29,2022-08-26
+@omnia/fx,2022-09-30,2022-08-26
 @pawjs/pawjs,2022-09-24,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -69,8 +69,6 @@ package,package_update,repository_update
 @southcn/ckeditor5-build-inline,2022-04-07,2020-05-01
 @split-demo/shared-build-deps,2022-04-07,2018-10-15
 @stoplight/react-static,2022-06-13,2022-04-29
-@storybook/core,2022-09-28,2022-09-27
-@storybook/react,2022-09-28,2022-09-27
 @treshugart/nwb,2022-06-13,2021-04-30
 @ubiquits/toolchain,2022-06-13,2016-11-29
 @unaussprechlich/keystone,2022-04-07,2021-02-03
@@ -117,7 +115,7 @@ array-back,2022-06-13,2022-01-14
 array-flatten,2022-06-13,2021-10-10
 array-uniq,2022-06-13,2021-05-03
 arrify,2022-06-13,2021-11-09
-arui-scripts,2022-09-29,2022-03-30
+arui-scripts,2022-09-30,2022-03-30
 asap,2022-06-13,2022-01-05
 asn1,2022-06-13,2022-03-09
 assert,2022-06-13,2019-09-24
@@ -243,7 +241,6 @@ cli-table2,2022-06-13,2018-11-09
 cli-ux,2022-09-07,2022-01-31
 cli-width,2022-06-13,2022-05-12
 clipboardy,2022-07-06,2021-10-13
-cliui,2022-06-13,2022-02-05
 clone,2022-06-13,2021-11-06
 cloudcms-server,2022-09-15,2022-09-03
 clui,2022-06-13,2020-09-08
@@ -261,7 +258,6 @@ combined-stream,2022-06-13,2019-05-12
 command-exists,2022-06-13,2020-09-07
 command-line-args,2022-06-13,2022-01-29
 command-line-usage,2022-06-13,2022-04-13
-commander,2022-08-09,2022-07-15
 common-tags,2022-06-13,2020-06-02
 compages,2022-04-27,2017-08-23
 component-emitter,2022-06-13,2019-04-15
@@ -340,7 +336,7 @@ detect-conflict,2022-06-15,2018-05-19
 detect-libc,2022-06-15,2022-02-14
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
-discord.js,2022-09-29,2022-09-25
+discord.js,2022-09-30,2022-09-25
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -403,6 +399,7 @@ eslint-loader,2022-06-17,2020-09-27
 eslint-plugin-babel,2022-06-17,2020-07-31
 eslint-plugin-flowtype,2022-06-17,2021-11-01
 eslint-plugin-node,2022-06-17,2021-06-03
+eslint-plugin-react,2022-09-09,2017-12-10
 eslint-plugin-standard,2022-06-17,2020-11-23
 esm,2022-06-17,2019-09-26
 esprima,2022-06-17,2021-08-29
@@ -962,6 +959,8 @@ react-native-vector-icons,2022-06-26,2022-06-24
 react-openfin-scripts,2022-05-15,2019-06-20
 react-qml-cli,2022-05-15,2020-03-26
 react-redux-package-gw,2022-06-26,2017-03-23
+react-router,2022-09-30,2022-09-29
+react-router-dom,2022-09-30,2022-09-29
 react-router-redux,2022-06-26,2018-10-26
 react-scripts-custom-template,2022-05-15,2019-03-28
 react-setup,2022-06-26,2017-02-11
