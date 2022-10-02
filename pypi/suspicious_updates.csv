@@ -3,6 +3,7 @@ adafruit-circuitpython-busdevice,2022-08-26,2022-08-23
 adafruit-circuitpython-typing,2022-08-26,2022-08-24
 albumentations,2022-09-20,2022-09-19
 arrow,2022-09-03,2022-08-31
+autogluon-core,2022-10-02,2022-10-01
 aws-embedded-metrics,2022-09-26,2022-09-16
 aws-secretsmanager-caching,2021-03-11,2021-03-10
 awswrangler,2022-09-30,2022-09-28
@@ -10,15 +11,17 @@ bbcode,2019-12-31,2019-12-27
 bumpversion,2020-05-14,2019-11-26
 business-duration,2022-01-19,2020-04-02
 cgroupspy,2022-04-04,2022-04-01
+clearml-agent,2022-10-02,2022-09-29
 contours,2017-07-28,2017-07-27
 cpuset-py3,2020-12-01,2016-01-21
 crowdstrike-falconpy,2022-09-20,2022-09-16
 cvxopt,2022-03-08,2022-03-07
-databand,2022-09-30,2022-09-29
-dbnd,2022-09-30,2022-09-29
-dbnd-spark,2022-09-30,2022-09-29
+databand,2022-10-02,2022-09-29
+dbnd,2022-10-02,2022-09-29
+dbnd-spark,2022-10-02,2022-09-29
 dedupe,2022-01-21,2022-01-19
 django-admin-autocomplete-filter,2021-09-11,2021-09-09
+djangorestframework-simplejwt,2022-10-01,2022-09-28
 dopamine-rl,2022-09-21,2022-09-20
 drf-jwt,2022-01-09,2022-01-08
 getmac,2022-06-01,2022-05-12
@@ -34,6 +37,7 @@ jupyter-contrib-core,2022-07-09,2022-07-08
 jupyter-nbextensions-configurator,2022-07-17,2022-07-09
 jxmlease,2020-05-29,2020-05-21
 keyrings-google-artifactregistry-auth,2022-09-03,2022-09-02
+localstack-ext,2022-10-02,2022-10-01
 lomond,2018-09-21,2018-07-05
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
@@ -44,6 +48,7 @@ mypy-boto3-sagemaker,2022-09-30,2022-09-27
 mypy-boto3-secretsmanager,2022-09-29,2022-09-27
 newrelic-telemetry-sdk,2022-07-11,2022-07-09
 pantab,2022-09-14,2021-04-07
+pep562,2021-05-21,2021-05-17
 probableparsing,2016-12-19,2016-03-28
 pyasn1,2022-08-23,2020-03-21
 pyasn1-modules,2022-08-08,2020-03-21
@@ -52,7 +57,6 @@ pybytebuffer,2020-12-28,2020-10-25
 pycapnp,2022-09-13,2022-09-12
 pyfarmhash,2022-01-14,2021-12-30
 pygments-style-tomorrow,2020-09-22,2013-01-13
-pygtrie,2022-09-23,2022-07-16
 pylibmc,2022-08-30,2022-08-26
 pymel,2021-11-13,2021-02-08
 pyminizip,2021-12-21,2021-12-20
@@ -101,6 +105,7 @@ pyobjc-framework-externalaccessory,2022-09-18,2022-09-15
 pyobjc-framework-findersync,2022-09-18,2022-09-15
 pyobjc-framework-fsevents,2022-09-18,2022-09-15
 pyobjc-framework-gamecenter,2022-09-18,2022-09-15
+pyobjc-framework-gamecontroller,2022-09-18,2022-09-15
 pyobjc-framework-gamekit,2022-09-18,2022-09-15
 pyobjc-framework-gameplaykit,2022-09-18,2022-09-15
 pyobjc-framework-imagecapturecore,2022-09-18,2022-09-15
@@ -173,7 +178,6 @@ strenum,2022-06-22,2021-10-14
 stripe,2022-09-27,2022-09-23
 sweetviz,2022-06-14,2022-06-08
 tensorflow-io-gcs-filesystem,2022-09-08,2022-09-07
-tensorflow-recommenders,2022-09-29,2022-09-28
 textfsm,2022-07-13,2022-07-06
 unidic-lite,2021-01-25,2020-09-01
 virtualenv-clone,2021-09-07,2021-09-06
