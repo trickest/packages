@@ -336,7 +336,6 @@ detect-conflict,2022-06-15,2018-05-19
 detect-libc,2022-06-15,2022-02-14
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
-discord.js,2022-09-30,2022-09-25
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -365,7 +364,6 @@ electrode-archetype-react-app-sync-dev,2022-06-16,2016-12-14
 element-resize-detector,2022-06-16,2021-12-14
 elliptic,2022-06-16,2021-02-02
 embark,2022-06-16,2020-10-08
-ember-cli-babel,2022-06-16,2021-12-22
 ember-cli-version-checker,2022-06-16,2021-08-03
 encodeurl,2022-06-17,2019-01-01
 end-of-stream,2022-06-17,2020-12-08
@@ -678,7 +676,6 @@ learning_locker,2022-06-19,2021-11-16
 left-pad,2022-06-19,2019-03-14
 less-plugin-npm-import,2022-06-19,2018-12-07
 leveldown,2022-06-19,2022-06-12
-levelup,2022-06-19,2022-06-12
 lie,2022-06-19,2018-03-06
 liftoff,2022-07-13,2022-03-15
 lightsight,2022-06-19,2019-09-17
@@ -782,7 +779,6 @@ neo-async,2022-06-21,2020-12-14
 netdata-collectors-landscape,2022-05-10,2018-12-28
 next-nodecms,2022-05-10,2021-04-28
 next-tick,2022-06-21,2021-06-30
-ng2-rest-swagger-generator,2022-06-21,2022-03-29
 nger-cli,2022-05-10,2020-09-12
 nguye,2022-06-21,2017-01-06
 nib,2022-06-21,2022-05-17
@@ -953,14 +949,13 @@ react-lifecycles-compat,2022-05-14,2019-07-19
 react-loadable,2022-06-26,2020-03-03
 react-markdown,2022-06-26,2022-06-05
 react-motion,2022-06-26,2019-11-17
+react-native,2022-10-01,2022-09-30
 react-native-ok-sdk,2022-06-26,2017-07-19
 react-native-plus,2022-06-26,2017-04-13
 react-native-vector-icons,2022-06-26,2022-06-24
 react-openfin-scripts,2022-05-15,2019-06-20
 react-qml-cli,2022-05-15,2020-03-26
 react-redux-package-gw,2022-06-26,2017-03-23
-react-router,2022-09-30,2022-09-29
-react-router-dom,2022-09-30,2022-09-29
 react-router-redux,2022-06-26,2018-10-26
 react-scripts-custom-template,2022-05-15,2019-03-28
 react-setup,2022-06-26,2017-02-11
@@ -1114,7 +1109,6 @@ strip-bom,2022-06-27,2021-04-16
 styled-components,2022-09-27,2022-09-24
 svg-inline-loader,2022-06-27,2020-10-09
 svg-sprite-loader,2022-06-27,2021-10-24
-svgo,2022-06-27,2022-03-15
 sw-precache-webpack-plugin,2022-06-27,2020-01-25
 swig,2022-06-27,2016-08-05
 symbol-observable,2022-06-27,2022-01-05
@@ -1257,7 +1251,6 @@ xmlhttprequest,2022-06-29,2018-03-29
 xo-server,2022-06-29,2018-02-01
 xpath,2022-06-29,2021-07-04
 xregexp,2022-06-29,2022-06-05
-xtend,2022-06-29,2020-08-10
 xys_cli,2022-06-29,2018-07-18
 y18n,2022-06-29,2021-04-07
 ya-driver,2022-05-25,2019-01-18
@@ -1266,7 +1259,6 @@ yaml-loader,2022-06-29,2022-04-26
 yamljs,2022-06-29,2019-11-12
 yanxlg-rc-tools,2022-05-25,2019-04-17
 yapm,2022-06-29,2015-01-28
-yargs,2022-09-04,2022-08-03
 yii-steroids,2022-05-25,2022-02-18
 yosay,2022-06-29,2019-08-14
 zeditor,2022-06-29,2015-05-19
