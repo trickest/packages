@@ -1,9 +1,8 @@
 package,package_update,repository_update
 adafruit-circuitpython-busdevice,2022-08-26,2022-08-23
-adafruit-circuitpython-typing,2022-08-26,2022-08-24
 albumentations,2022-09-20,2022-09-19
 arrow,2022-09-03,2022-08-31
-autogluon-core,2022-10-02,2022-10-01
+autogluon-core,2022-10-03,2022-10-01
 aws-embedded-metrics,2022-09-26,2022-09-16
 aws-secretsmanager-caching,2021-03-11,2021-03-10
 awswrangler,2022-09-30,2022-09-28
@@ -37,7 +36,6 @@ jupyter-contrib-core,2022-07-09,2022-07-08
 jupyter-nbextensions-configurator,2022-07-17,2022-07-09
 jxmlease,2020-05-29,2020-05-21
 keyrings-google-artifactregistry-auth,2022-09-03,2022-09-02
-localstack-ext,2022-10-02,2022-10-01
 lomond,2018-09-21,2018-07-05
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
