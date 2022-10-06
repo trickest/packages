@@ -603,6 +603,7 @@ process,https://github.com/shtylman/node-process
 progress,https://github.com/visionmedia/node-progress
 protobufjs,https://github.com/protobufjs/protobuf.js
 punycode,https://github.com/bestiejs/punycode.js
+puppeteer,https://github.com/puppeteer/puppeteer.git#main
 qxf2006hf0216,https://github.com/npm/npm
 rabbit-bundler,https://github.com/zoupeng3/metro
 randomstring,https://github.com/klughammer/node-randomstring
