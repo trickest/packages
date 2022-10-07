@@ -9,6 +9,7 @@ package,package_update,repository_update
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
+@capacitor/core,2022-10-06,2022-10-05
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -50,7 +51,6 @@ package,package_update,repository_update
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-10-05,2022-08-26
 @pawjs/pawjs,2022-09-24,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -361,8 +361,11 @@ electrode-archetype-react-app-dev-sync-internal-jmcriffey,2022-06-16,2016-12-14
 electrode-archetype-react-app-sync-dev,2022-06-16,2016-12-14
 element-resize-detector,2022-06-16,2021-12-14
 elliptic,2022-06-16,2021-02-02
+embark,2022-06-16,2020-10-08
 ember-cli-version-checker,2022-06-16,2021-08-03
 encodeurl,2022-06-17,2019-01-01
+end-of-stream,2022-06-17,2020-12-08
+engine.io,2022-06-17,2022-06-06
 ensemblejs,2022-06-17,2017-06-15
 ensure-posix-path,2022-06-17,2019-02-04
 envify,2022-06-17,2017-07-07
@@ -376,6 +379,7 @@ errorhandler,2022-06-17,2020-03-10
 es5-shim,2022-06-17,2022-05-23
 es6-error,2022-06-17,2018-11-20
 es6-iterator,2022-06-17,2021-06-30
+es6-promise,2022-06-17,2019-06-19
 es6-promisify,2022-06-17,2021-05-26
 es6-react-scripts,2022-05-01,2018-08-26
 es6-shim,2022-06-17,2022-05-06
@@ -406,7 +410,6 @@ eventsource-polyfill,2022-06-17,2019-11-08
 execa,2022-09-21,2022-07-22
 exenv,2022-06-17,2017-04-23
 exit,2022-06-17,2013-11-26
-express,2022-10-04,2022-08-20
 express-http-proxy,2022-06-17,2021-10-26
 express-session,2022-08-26,2022-05-11
 extend,2022-06-17,2022-01-09
@@ -636,7 +639,6 @@ jsprim,2022-09-27,2021-11-17
 jszip,2022-09-05,2022-08-02
 jujin-dv,2022-05-07,2019-10-13
 jw-components-mobile,2022-06-19,2017-05-30
-jwt-decode,2022-08-30,2022-07-20
 jwt-simple,2022-06-19,2021-04-14
 karma-chrome-launcher,2022-06-19,2022-03-09
 karma-coverage,2022-06-19,2022-02-10
@@ -726,6 +728,7 @@ merge-stream,2022-06-19,2019-06-19
 merge2,2022-06-19,2021-08-05
 merino,2022-06-19,2020-10-11
 meshblu-core-dispatcher,2022-06-19,2017-10-18
+metalsmith,2022-10-07,2022-10-06
 method-override,2022-08-26,2018-07-12
 methods,2022-06-19,2018-08-01
 micromatch,2022-06-19,2022-03-24
@@ -1053,7 +1056,6 @@ signal-exit,2022-06-26,2022-02-26
 simple-get,2022-06-26,2022-03-17
 sindredash,2022-06-26,2015-12-21
 sinon-chai,2022-06-26,2022-04-29
-sku,2022-10-05,2022-10-03
 skylor.min-admin,2022-06-26,2017-12-27
 skypager-framework,2022-06-26,2021-07-19
 sliced,2022-06-26,2016-08-30
