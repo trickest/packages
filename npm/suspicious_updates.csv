@@ -9,7 +9,7 @@ package,package_update,repository_update
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
-@capacitor/core,2022-10-06,2022-10-05
+@capacitor/core,2022-10-07,2022-10-05
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -51,6 +51,7 @@ package,package_update,repository_update
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
 @omgjs/turbo,2022-04-06,2018-11-06
+@omnia/fx,2022-10-07,2022-10-06
 @pawjs/pawjs,2022-09-24,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -370,8 +371,6 @@ ensemblejs,2022-06-17,2017-06-15
 ensure-posix-path,2022-06-17,2019-02-04
 envify,2022-06-17,2017-07-07
 envinfo,2022-09-27,2022-04-21
-enzyme,2022-06-17,2021-09-17
-enzyme-adapter-react-16,2022-06-17,2021-09-17
 enzyme-to-json,2022-06-17,2021-04-08
 errlop,2022-05-01,2021-07-29
 errno,2022-06-17,2020-12-16
