@@ -16,11 +16,13 @@ dbt-bigquery,2022-10-06,2022-10-04
 dbt-redshift,2022-10-03,2022-09-30
 dbt-snowflake,2022-10-03,2022-09-30
 dedupe,2022-01-21,2022-01-19
+delta-sharing,2022-10-10,2022-10-07
 django-admin-autocomplete-filter,2021-09-11,2021-09-09
 dopamine-rl,2022-09-21,2022-09-20
 drf-jwt,2022-01-09,2022-01-08
-elasticsearch,2022-10-06,2022-10-03
 getmac,2022-06-01,2022-05-12
+google-cloud-dataplex,2022-10-10,2022-10-07
+google-cloud-logging,2022-10-10,2022-10-07
 googledrivedownloader,2019-05-20,2019-02-09
 grandalf,2020-03-19,2020-03-17
 httpstan,2022-10-10,2022-10-03
@@ -35,7 +37,6 @@ jupyter-contrib-core,2022-07-09,2022-07-08
 jupyter-nbextensions-configurator,2022-07-17,2022-07-09
 jxmlease,2020-05-29,2020-05-21
 keyrings-google-artifactregistry-auth,2022-09-03,2022-09-02
-localstack-ext,2022-10-10,2022-10-09
 lomond,2018-09-21,2018-07-05
 lyricsgenius,2021-04-18,2021-04-17
 mkdocs-minify-plugin,2021-10-19,2021-10-18
@@ -63,6 +64,7 @@ python-logstash,2022-03-30,2022-03-28
 python-monkey-business,2016-03-22,2016-03-19
 pyvis,2022-09-23,2022-09-22
 quantile-python,2015-02-11,2013-09-21
+rasa,2022-10-11,2022-10-10
 rasa-sdk,2022-10-07,2022-09-21
 rauth,2017-01-22,2015-11-05
 requests-ntlm,2017-10-18,2017-09-19
