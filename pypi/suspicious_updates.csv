@@ -1,5 +1,6 @@
 package,package_update,repository_update
 adafruit-circuitpython-busdevice,2022-08-26,2022-08-23
+autogluon-core,2022-10-12,2022-10-11
 aws-embedded-metrics,2022-09-26,2022-09-16
 aws-secretsmanager-caching,2021-03-11,2021-03-10
 bbcode,2019-12-31,2019-12-27
@@ -7,12 +8,12 @@ bumpversion,2020-05-14,2019-11-26
 business-duration,2022-01-19,2020-04-02
 cgroupspy,2022-04-04,2022-04-01
 chiabip158,2022-10-06,2022-08-31
+clearml,2022-10-11,2022-10-08
+conan,2022-10-11,2022-10-10
 conjure-python-client,2022-10-05,2022-09-28
 contours,2017-07-28,2017-07-27
 cpuset-py3,2020-12-01,2016-01-21
-crowdstrike-falconpy,2022-09-20,2022-09-16
 cvxopt,2022-03-08,2022-03-07
-dbt-bigquery,2022-10-06,2022-10-04
 dbt-redshift,2022-10-03,2022-09-30
 dbt-snowflake,2022-10-03,2022-09-30
 dedupe,2022-01-21,2022-01-19
