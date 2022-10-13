@@ -332,7 +332,6 @@ cogear,https://github.com/codemotion/cogear.js
 combined-stream,https://github.com/felixge/node-combined-stream
 commander,https://github.com/tj/commander.js
 component-emitter,https://github.com/component/emitter
-concat-map,https://github.com/substack/node-concat-map
 confusing-browser-globals,https://github.com/facebook/create-react-app
 consolidate,https://github.com/tj/consolidate.js
 cookie-signature,https://github.com/visionmedia/node-cookie-signature
@@ -500,7 +499,6 @@ kountexample,https://github.com/tanngo/kountex
 lambda-service,https://github.com/zero1five/lambda/tree/master/packages/lambda-service
 lambda-webpack,https://github.com/zero1five/lambda/tree/master/packages/lambda-webpack
 lazy-bee-ui,https://github.com/lazy-bee/ui
-lc-apm,https://github.com/lemonce/apm-monitor
 leaflet,https://github.com/Leaflet/Leaflet
 learning_locker,https://github.com/LearningLocker/learninglocker
 less,https://github.com/less/less.js

@@ -4,12 +4,13 @@ package,package_update,repository_update
 @ackee/react-scripts,2022-06-08,2022-06-02
 @adactive/kiosk-react-scripts,2022-06-12,2018-12-13
 @agneta/platform,2022-04-04,2018-10-27
+@alifd/next,2022-10-12,2022-10-11
 @atomist/automation-client,2022-05-03,2021-10-04
 @audentio/kinetic,2022-04-04,2020-02-03
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
-@capacitor/core,2022-10-11,2022-10-05
+@capacitor/core,2022-10-12,2022-10-05
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -51,7 +52,7 @@ package,package_update,repository_update
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-10-11,2022-10-06
+@omnia/fx,2022-10-12,2022-10-06
 @pawjs/pawjs,2022-10-10,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -183,7 +184,6 @@ bl,2022-06-13,2021-04-02
 blessed,2022-06-13,2016-01-04
 bolero-chatangle.lib,2022-04-12,2019-09-23
 boom,2022-08-19,2022-05-02
-bootstrap,2022-10-11,2022-10-07
 boringbits,2022-04-12,2019-04-17
 boy-smart,2022-06-13,2017-09-12
 brace-expansion,2022-06-13,2022-06-08
@@ -1177,6 +1177,7 @@ vinyl-fs,2022-06-28,2020-05-17
 vinyl-source-stream,2022-06-28,2017-12-23
 vinyl-sourcemaps-apply,2022-06-28,2015-12-27
 vorpal,2022-06-28,2018-08-15
+vue,2022-10-12,2022-10-11
 vue-class-component,2022-06-28,2020-12-15
 vue-cli-plugin-ut-builder,2022-05-23,2019-06-29
 vue-cvs,2022-05-23,2016-12-26
