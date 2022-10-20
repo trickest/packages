@@ -75,7 +75,7 @@ https://github.com/npm/cli,@kuinox/testpackagethatnooneshoulduse|@kuinox/testpac
 https://github.com/npm/newww,@nexdrew/newww|newww
 https://github.com/npm/npm,421752593pro|@0xcda7a/npm|@mrauhu/npm|ava|cdoak|guvnor|jmpr-jpm|koa-body|latest-version|naver-npm|node-emoji|node-pre-gyp|not-bundled-npm|npm|npm-2|npm-msys2|npm5|npm5v|npmc|npmlog|nst-cli|qxf2006hf0216|sinon|update-notifier|wedmaster|yapm|yargs|yss-perseus
 https://github.com/npm/security-holder,child_process|fs|http|tslib
-https://github.com/octokit/rest.js,@octokit/rest|github
+https://github.com/octokit/rest.js,@octokit/rest|gh-got|github
 https://github.com/pega-digital/pegakit-build-tools,@pegakit/build-tools|pegakit-build-tools
 https://github.com/phosphorjs/phosphor,@phosphor/algorithm|@phosphor/widgets
 https://github.com/qh08/hendo-cli,hendo-cli|hendo-cli-luozheao

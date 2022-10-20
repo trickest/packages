@@ -164,7 +164,7 @@ package,repository
 @stoplight/react-static,https://github.com/nozzle/react-static
 @storybook/core,https://github.com/storybookjs/storybook
 @storybook/react,https://github.com/storybookjs/storybook
-@svgr/webpack,https://github.com/gregberge/svgr.git#master
+@svgr/webpack,https://github.com/gregberge/svgr.git#main
 @symph/joy,https://github.com/lnlfps/symph-joy/packages/joy
 @talend/scripts,https://github.com/Talend/ui
 @tarojs/cli,https://github.com/NervJS/taro
@@ -635,7 +635,7 @@ react-test-renderer,https://github.com/facebook/react
 redis,https://github.com/redis/node-redis
 redis-parser,https://github.com/NodeRedis/node-redis-parser
 redux-saga,https://github.com/redux-saga/redux-saga.git#main
-regenerator-runtime,https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+regenerator-runtime,https://github.com/facebook/regenerator/tree/master/packages/runtime
 rekit-studio-sdk,https://github.com/rekit/rekit-studio
 relax-scripts,https://github.com/divcss3/relaxjs
 request-promise-core,https://github.com/request/promise-core
@@ -694,7 +694,7 @@ tmp,https://github.com/raszi/node-tmp
 touch,https://github.com/isaacs/node-touch
 toyako,https://github.com/toyako/yanglao
 tradebase,https://github.com/0wczar/spin-react
-traverse,https://github.com/substack/js-traverse
+traverse,https://github.com/ljharb/js-traverse
 trv-expo,https://github.com/expo/expo
 tuax,https://github.com/tuateam/tua
 tweetnacl,https://github.com/dchest/tweetnacl-js

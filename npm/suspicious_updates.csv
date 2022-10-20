@@ -4,13 +4,11 @@ package,package_update,repository_update
 @ackee/react-scripts,2022-06-08,2022-06-02
 @adactive/kiosk-react-scripts,2022-06-12,2018-12-13
 @agneta/platform,2022-04-04,2018-10-27
-@alifd/next,2022-10-12,2022-10-11
 @atomist/automation-client,2022-05-03,2021-10-04
 @audentio/kinetic,2022-04-04,2020-02-03
 @biotope/build,2022-04-04,2020-12-12
 @blackbaud/skyux-builder,2022-06-12,2020-07-27
 @boundless-inc/mobiledoc-dom-renderer,2022-04-04,2017-03-07
-@capacitor/core,2022-10-12,2022-10-05
 @chialab/rna-cli,2022-04-04,2022-02-03
 @conveyal/analysis-ui,2022-06-12,2022-01-13
 @curiostack/base-web,2022-06-12,2022-03-13
@@ -24,6 +22,7 @@ package,package_update,repository_update
 @ericmcornelius/ease,2022-04-05,2019-06-01
 @eservices/servicebot,2022-04-05,2018-10-18
 @evan.network/angular-gulp,2022-04-05,2019-11-05
+@expo/xdl,2022-10-19,2022-10-03
 @eybo/keystone,2022-04-05,2019-05-03
 @feiyuerenhai/nut,2022-06-12,2018-12-13
 @framing/biz,2022-06-12,2017-06-08
@@ -40,6 +39,7 @@ package,package_update,repository_update
 @mapbox/batfish,2022-04-06,2021-12-01
 @mara/x,2022-08-26,2021-07-19
 @mblode/react-native-feather,2022-04-06,2018-04-05
+@mendix/pluggable-widgets-tools,2022-10-19,2022-10-12
 @mercateo/ws,2022-06-12,2021-06-16
 @mixup/x,2022-04-06,2020-08-06
 @mochen/muse,2022-04-06,2019-09-30
@@ -52,7 +52,7 @@ package,package_update,repository_update
 @ngxvoice/ngx-voicelistner,2022-06-12,2017-12-24
 @novembrecom/zxcvbn,2022-04-06,2017-10-13
 @omgjs/turbo,2022-04-06,2018-11-06
-@omnia/fx,2022-10-12,2022-10-06
+@omnia/fx,2022-10-19,2022-10-06
 @pawjs/pawjs,2022-10-10,2022-06-24
 @pegakit/build-tools,2022-06-12,2017-03-24
 @phosphor/algorithm,2022-06-12,2019-11-05
@@ -180,7 +180,6 @@ bimn,2022-04-11,2020-10-27
 bindings,2022-06-13,2019-02-27
 bip39,2022-06-13,2022-04-27
 bipio,2022-06-13,2019-05-29
-bl,2022-06-13,2021-04-02
 blessed,2022-06-13,2016-01-04
 bolero-chatangle.lib,2022-04-12,2019-09-23
 boom,2022-08-19,2022-05-02
@@ -218,7 +217,6 @@ caseless,2022-06-13,2018-03-09
 cf-abacus,2022-06-13,2019-08-08
 chai,2022-06-13,2022-01-26
 chai-as-promised,2022-06-13,2018-08-19
-chance,2022-06-13,2022-04-29
 change-case,2022-06-13,2021-10-10
 charenc,2022-06-13,2018-09-03
 chartwerk-editor,2022-06-13,2018-10-05
@@ -242,7 +240,6 @@ cli-ux,2022-09-07,2022-01-31
 cli-width,2022-06-13,2022-05-12
 clipboardy,2022-07-06,2021-10-13
 clone,2022-06-13,2021-11-06
-cloudcms-server,2022-10-11,2022-09-03
 clui,2022-06-13,2020-09-08
 co,2022-06-13,2016-10-17
 codemirror,2022-09-20,2022-06-30
@@ -332,6 +329,7 @@ detect-conflict,2022-06-15,2018-05-19
 detect-libc,2022-06-15,2022-02-14
 diagnostics,2022-06-15,2019-06-06
 dicer,2022-06-15,2021-12-19
+discord.js,2022-10-19,2022-10-17
 distributions.io,2022-06-15,2015-12-15
 do-base-react-scripts,2022-04-29,2019-07-20
 doctrine,2022-06-15,2018-12-03
@@ -387,9 +385,11 @@ eslint-config-prettier,2022-06-17,2022-05-04
 eslint-config-standard,2022-06-17,2022-04-20
 eslint-config-standard-react,2022-06-17,2022-03-08
 eslint-friendly-formatter,2022-06-17,2021-11-14
+eslint-import-resolver-webpack,2022-06-17,2022-05-19
 eslint-loader,2022-06-17,2020-09-27
 eslint-plugin-babel,2022-06-17,2020-07-31
 eslint-plugin-flowtype,2022-06-17,2021-11-01
+eslint-plugin-import,2022-06-17,2022-05-19
 eslint-plugin-node,2022-06-17,2021-06-03
 eslint-plugin-standard,2022-06-17,2020-11-23
 esm,2022-06-17,2019-09-26
@@ -465,7 +465,6 @@ get-caller-file,2022-06-18,2019-03-09
 get-func-name,2022-06-18,2021-10-08
 get-port,2022-06-18,2022-02-24
 get-stdin,2022-06-18,2021-08-08
-gh-got,2022-06-18,2022-01-01
 gh-pages,2022-06-18,2022-05-10
 git-clone,2022-06-18,2022-03-28
 gix-npm-server,2022-05-03,2018-11-04
@@ -531,7 +530,6 @@ has-symbols,2022-06-18,2022-03-01
 hash-for-dep,2022-06-18,2019-03-21
 hash-sum,2022-06-18,2019-06-28
 he,2022-07-06,2018-09-23
-heimdalljs,2022-06-18,2021-09-29
 hendo-cli,2022-06-18,2019-01-09
 hendo-cli-luozheao,2022-05-04,2019-01-09
 hexlet-pairs,2022-06-18,2022-06-17
@@ -645,7 +643,6 @@ karma-mocha,2022-06-19,2020-09-15
 karma-mocha-reporter,2022-06-19,2017-10-17
 karma-phantomjs-launcher,2022-06-19,2017-03-10
 karma-sourcemap-loader,2022-06-19,2020-08-18
-karma-spec-reporter,2022-06-19,2022-04-12
 kenya-project-pkg,2022-06-19,2017-04-26
 kevio,2022-06-19,2016-08-19
 keycode,2022-06-19,2021-11-15
@@ -718,7 +715,6 @@ md5,2022-06-19,2021-11-06
 md5-file,2022-06-19,2020-04-08
 media-typer,2022-06-19,2021-04-06
 memoize-one,2022-06-19,2021-10-27
-memory-fs,2022-06-19,2019-10-08
 merge,2022-06-19,2021-02-22
 merge-descriptors,2022-06-19,2019-01-11
 merge-stream,2022-06-19,2019-06-19
@@ -781,7 +777,6 @@ node-dingtalk-robot,2022-05-11,2017-09-30
 node-dir,2022-06-21,2017-02-10
 node-forge,2022-06-21,2022-03-30
 node-libs-browser,2022-06-21,2019-06-12
-node-notifier,2022-06-21,2022-02-01
 node-sass,2022-09-25,2022-09-08
 node-schedule,2022-06-21,2022-06-06
 node-static,2022-06-21,2022-03-09
@@ -883,6 +878,7 @@ postcss-value-parser,2022-06-24,2021-11-30
 prebuild-install,2022-06-24,2022-06-07
 precss,2022-06-24,2018-11-23
 prelude-ls,2022-06-24,2021-06-11
+prettier,2022-10-13,2022-10-09
 pretty-error,2022-06-24,2021-10-23
 pretty-hrtime,2022-06-24,2017-06-14
 prettyjson,2022-06-24,2022-02-22
@@ -937,7 +933,6 @@ react-loadable,2022-06-26,2020-03-03
 react-motion,2022-06-26,2019-11-17
 react-native-ok-sdk,2022-06-26,2017-07-19
 react-native-plus,2022-06-26,2017-04-13
-react-native-vector-icons,2022-06-26,2022-06-24
 react-openfin-scripts,2022-05-15,2019-06-20
 react-qml-cli,2022-05-15,2020-03-26
 react-redux-package-gw,2022-06-26,2017-03-23
@@ -1041,6 +1036,7 @@ sha1,2022-06-26,2016-11-23
 shallowequal,2022-06-26,2021-01-06
 shebang-command,2022-06-26,2019-09-30
 shebang-regex,2022-06-26,2021-08-13
+shell-quote,2022-10-13,2022-10-12
 shortid,2022-06-26,2020-10-21
 should,2022-06-26,2019-03-07
 should-type,2022-06-26,2016-08-14
@@ -1062,7 +1058,6 @@ smashing-scripts,2022-05-18,2019-10-09
 snekfetch,2022-06-26,2018-06-19
 socket.io-adapter,2022-06-26,2022-05-25
 source-list-map,2022-06-26,2018-10-10
-source-map,2022-06-26,2021-05-02
 source-map-support,2022-06-26,2021-11-23
 sparkles,2022-06-26,2022-02-01
 split,2022-06-26,2017-09-06
@@ -1152,13 +1147,10 @@ upper-case,2022-06-28,2021-10-10
 uri-js,2022-06-28,2021-04-01
 urijs,2022-06-28,2022-04-03
 url,2022-06-28,2021-12-08
-url-join,2022-06-28,2022-05-28
 url-loader,2022-06-28,2021-03-15
-urllib,2022-10-09,2022-10-05
 user-home,2022-06-28,2021-04-09
 ustwo.com-frontend,2022-06-28,2018-04-16
 utf8,2022-06-28,2017-12-04
-util,2022-06-28,2022-05-18
 util-deprecate,2022-06-28,2018-11-11
 util.promisify,2022-05-22,2021-12-08
 utils-merge,2022-06-28,2020-06-17
@@ -1177,7 +1169,6 @@ vinyl-fs,2022-06-28,2020-05-17
 vinyl-source-stream,2022-06-28,2017-12-23
 vinyl-sourcemaps-apply,2022-06-28,2015-12-27
 vorpal,2022-06-28,2018-08-15
-vue,2022-10-12,2022-10-11
 vue-class-component,2022-06-28,2020-12-15
 vue-cli-plugin-ut-builder,2022-05-23,2019-06-29
 vue-cvs,2022-05-23,2016-12-26
@@ -1188,7 +1179,6 @@ vue-slate-tools,2022-05-23,2019-05-10
 vue-starter-service,2022-05-23,2019-03-01
 vue-style-loader,2022-06-28,2021-03-03
 vue2do,2022-06-28,2021-04-25
-vuex,2022-06-28,2022-05-28
 warning,2022-06-28,2022-02-14
 watch,2022-06-28,2017-08-20
 watchify,2022-06-28,2021-01-28
@@ -1215,7 +1205,6 @@ which,2022-06-29,2022-04-04
 which-module,2022-06-29,2019-08-20
 wildplate,2022-06-29,2017-03-27
 windows.foundation,2022-06-29,2021-07-08
-winston-transport,2022-06-29,2022-06-28
 withhold-message-ava,2022-06-29,2017-03-07
 wnode,2022-06-29,2019-03-04
 word-wrap,2022-06-29,2018-05-04
@@ -1226,6 +1215,7 @@ wrench,2022-06-29,2016-03-30
 write-file-webpack-plugin,2022-06-29,2021-07-06
 xapiwrapper,2022-05-24,2020-07-23
 xcode,2022-09-18,2022-07-19
+xdl,2022-10-19,2022-10-03
 xes-webpack-core,2022-05-24,2021-03-27
 xhr,2022-06-29,2020-11-28
 xml-js,2022-06-29,2019-02-13
