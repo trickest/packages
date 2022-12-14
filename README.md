@@ -40,7 +40,6 @@ Then, it performs multiple checks to find any red flags that could indicate that
         - the repository name doesn't match the package name
         - the repository has been used in another package before
 - In the end, the results of these checks are matched back to their packages and pushed to this repository.
-- The workflow is scheduled to run constantly.
 
 ## Contribution
 All contributions are welcome! Got an idea for another check? Know a way to make a check more accurate? Feel free to create a new ticket via [GitHub issues](https://github.com/trickest/packages/issues), tweet at us [@trick3st](https://twitter.com/trick3st), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
