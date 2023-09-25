@@ -8,7 +8,7 @@ For each package registry, 5 files are generated:
 - `mismatching_package_repository.csv`: Packages that point to a GitHub repository whose name doesn't match the package name (This isn't always indicative of a compromised package but it helps catch malicious packages that try to impersonate legitimate ones): [PyPI](pypi/mismatching_package_repository.csv), [npm](npm/mismatching_package_repository.csv)
 - `repeating_repositories.csv`: Packages that point to a GitHub repository that another package also points to (This isn't always indicative of a compromised package but it helps catch malicious packages that try to impersonate legitimate ones): [PyPI](pypi/repeating_repositories.csv), [npm](npm/repeating_repositories.csv)
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
 
 ## How it Works
 A [Trickest](https://trickest.com) workflow gets the initial dataset from:
@@ -47,4 +47,4 @@ All contributions are welcome! Got an idea for another check? Know a way to make
 ## Build your own workflows!
 We believe in the value of tinkering. Sign up for a demo on [trickest.com](https://trickest.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
